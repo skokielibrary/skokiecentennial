@@ -1,0 +1,13 @@
+title: "Skokie: A Centennial History"
+baseurl: /skokiecentennial
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:title/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "base"
