@@ -18,7 +18,7 @@ Once you commit changes, the live version of the book will be updated a few minu
 ## Things to remove
 
 - More than one space between paragraphs
-- Page navigation (Home Next, View and Print This Section, etc)
+- Page navigation (Home Next, View and Print This Section, etc) (but not the stuff in between `---` and `---` at the top of the file)
 - Chapter headings
 
 ## Things to Add
