@@ -50,13 +50,13 @@ By 1836, a year after the last of the Potawatomi Indians left the Chicago area, 
 
 Benjamin Hall (for whom Hall Road is named) and John Marshall built the North Branch Hotel in Dutchman's Point in 1837. By the following year, the settlement could boast the first school in Niles Township. The little schoolhouse at the intersection of present day Harlem and Touhy Avenues had at first an enrollment of only four students, the children of the Ebinger and Ruland families. And, in 1840 the first glass of whiskey was served over the bar in the first saloon opened in Dutchman's Point, an establishment owned by Benjamin Hall and John Marshall to complement their North Branch Hotel.
 
-![Onetime Skokie inhabitants, the Potawatomi. The painting by Lawrence Carmichael Earle (1845-1921). Courtesy of the Chicago Historical Society](/assets/img/11.jpg)
+![Onetime Skokie inhabitants, the Potawatomi. The painting by Lawrence Carmichael Earle (1845-1921). Courtesy of the Chicago Historical Society]({{ site.baseurl }}/assets/img/11.jpg)
 *Onetime Skokie inhabitants, the Potawatomi. The painting by Lawrence Carmichael Earle (1845-1921). Courtesy of the Chicago Historical Society*
 
-![Potawatomi chief Shabbona (1775-1859)](/assets/img/12a.jpg)
+![Potawatomi chief Shabbona (1775-1859)]({{ site.baseurl }}/assets/img/12a.jpg)
 *Potawatomi chief Shabbona (1775-1859)*
 
-![Indian axe head found near the corner  of Golf and Knox ](/assets/img/12b.jpg)
+![Indian axe head found near the corner  of Golf and Knox ]({{ site.baseurl }}/assets/img/12b.jpg)
 *Indian axe head found near the corner of Golf and Knox*
 
 ## Ancient Ancestors
@@ -92,13 +92,13 @@ The Scharf map also indicates that there was Indian activity in the heart of pre
 ![A painting of the winter quarters  in the Chicago area erected by Pere Marquette and Louis Jolliet (sometimes spelled Joliet) who passed near Skokie on their explorations of America in the 1670s](/assets/img/15a.jpg)
 *A painting of the winter quarters  in the Chicago area erected by Pere Marquette and Louis Jolliet (sometimes spelled Joliet) who passed near Skokie on their explorations of America in the 1670s*
 
-![Statue of Louis Jolliet. [Reproduced courtesy of Chicago Historical Society.]](/assets/img/15b.jpg)
+![Statue of Louis Jolliet. [Reproduced courtesy of Chicago Historical Society.]]({{ site.baseurl }}/assets/img/15b.jpg)
 *Statue of Louis Jolliet. [Reproduced courtesy of Chicago Historical Society.]*
 
-![Skokie Marsh as it appeared to early settlers, from a photograph by Fred M. Tickerman [Reproduced courtesy of Chicago Historical Society]](/assets/img/16a.jpg)
+![Skokie Marsh as it appeared to early settlers, from a photograph by Fred M. Tickerman [Reproduced courtesy of Chicago Historical Society]]({{ site.baseurl }}/assets/img/16a.jpg)
 *Skokie Marsh as it appeared to early settlers, from a photograph by Fred M. Tickerman [Reproduced courtesy of Chicago Historical Society]*
 
-![Horse's jawbone found behind 8020 Lincoln, site of a blacksmith shop in the 19th century [Reproduced courtesy of Chicago Historical Society]](/assets/img/16b.jpg)
+![Horse's jawbone found behind 8020 Lincoln, site of a blacksmith shop in the 19th century [Reproduced courtesy of Chicago Historical Society]]({{ site.baseurl }}/assets/img/16b.jpg)
 *Horse's jawbone found behind 8020 Lincoln, site of a blacksmith shop in the 19th century [Reproduced courtesy of Chicago Historical Society]*
 
 ## Explorers Passing Through
