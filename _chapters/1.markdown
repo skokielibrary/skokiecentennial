@@ -89,7 +89,7 @@ The latter village and surrounding campgrounds were all located in a 1600-acre r
 
 The Scharf map also indicates that there was Indian activity in the heart of present-day Skokie. Four established Indian trails are shown converging near the town which is designated on the map as Niles Centre. The same map also indicates that a campground was located near the modern downtown district of Skokie.
 
-![A painting of the winter quarters  in the Chicago area erected by Pere Marquette and Louis Jolliet (sometimes spelled Joliet) who passed near Skokie on their explorations of America in the 1670s](/assets/img/15a.jpg)
+![A painting of the winter quarters  in the Chicago area erected by Pere Marquette and Louis Jolliet (sometimes spelled Joliet) who passed near Skokie on their explorations of America in the 1670s]({{ site.baseurl }}/assets/img/15a.jpg)
 *A painting of the winter quarters  in the Chicago area erected by Pere Marquette and Louis Jolliet (sometimes spelled Joliet) who passed near Skokie on their explorations of America in the 1670s*
 
 ![Statue of Louis Jolliet. [Reproduced courtesy of Chicago Historical Society.]]({{ site.baseurl }}/assets/img/15b.jpg)
