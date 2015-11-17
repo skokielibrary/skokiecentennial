@@ -33,15 +33,15 @@ In the description of Niles Centre in History of Cook County, Illinois, publishe
 
 The 1851 Niles Township tax assessment records (the township had been incorporated the year before), made available to local libraries on microfilm for the first time in the mid-1980s, also show that ownership of all but 47 ½ of the 640 acres included in Section 21 of the Township was accounted for, even in 1851. After Samuel Ferris, the largest landowner in the section, owning 185 acres, was William Butler, who owned 105 acres. Nicholas Meyer had 60. Nine others, including John Ross, John West, William Butler, Thomas George and Jacob Wingert, had holdings between 27 ½ and 55 acres.
 
-![19th century bed warmer, on display at the Skokie Historical Society](link to image)
+![19th century bed warmer, on display at the Skokie Historical Society]({{ site.baseurl }}/assets/img/21b.jpg)
 *19th century bed warmer, on display at the Skokie Historical Society*
 
-![Skokie's famous log cabin, believed to  have been first built in the 1840s, now
-stands behind the Historical Society](link to image)
+![Skokie's famous log cabin, believed to have been first built in the 1840s, now
+stands behind the Historical Society]({{ site.baseurl }}/assets/img/21a.jpg)
 *Skokie's famous log cabin, believed to  have been first built in the 1840s, now
 stands behind the Historical Society* 
 
-![Margaret Harrer Meyer and her husband Jacob, youngest son of Elizabeth and Nicholas Meyer. They built and lived inthe famous log cabin in the mid-1800s.](link to image)
+![Margaret Harrer Meyer and her husband Jacob, youngest son of Elizabeth and Nicholas Meyer. They built and lived inthe famous log cabin in the mid-1800s.]({{ site.baseurl }}/assets/img/22.jpg)
 *Margaret Harrer Meyer and her husband Jacob, youngest son of Elizabeth and Nicholas Meyer. They built and lived inthe famous log cabin in the mid-1800s.*
 
 ## The German Migration
@@ -86,7 +86,7 @@ Harms was awarded a contract in 1875 to build the basement of the new Chicago Co
 
 Often called Farmer Harms during his day and now sometimes referred to as Father Harms for his work in helping to found the village that became Skokie, Henry Harms lived a long and richly productive life, finally passing away in 1914 at the age of 82. Harms Road and Harms Woods are named after him.
 
-![Henry Harms (1832-1914), Skokie's founding father](link to image)
+![Henry Harms (1832-1914), Skokie's founding father]({{ site.baseurl }}/assets/img/25.jpg)
 *Henry Harms (1832-1914), Skokie's founding father*
 
 ## A Decade of Growth
@@ -129,10 +129,16 @@ The heavily Germanic nature of the community in those days is evidenced by the l
 
 Both of the original church buildings have been replaced by more recent structures. The Protestant church was rebuilt in 1903 using a similar design and some of the bricks and other materials of the original church. The present St. Peter's Roman Catholic Church was built by Chicago architect Henry Schlacks in 1894.
 
-![The settlement that would become Skokie begins to take shape](link to image)
+![The settlement that would become Skokie begins to take shape]({{ site.baseurl }}/assets/img/27.jpg)
 *The settlement that would become Skokie begins to take shape*
 
-![Peter Blameuser, Jr., circa 1855](link to image)
+![The Blameuser Building, on the northwest corner of Lincoln and Oakton, was built in the late 1800s.]({{ site.baseurl }}/assets/img/28.jpg)*The Blameuser Building, on the northwest corner of Lincoln and Oakton, was built in the late 1800s.*
+
+![A scribe used to mark cutting lines on wood, found in the Skokie area.]({{ site.baseurl }}/assets/img/31b.jpg)*A scribe used to mark cutting lines on wood, found in the Skokie area.*
+
+![Peter Blameuser family, 1885]({{ site.baseurl }}/assets/img/31b.jpg)*Peter Blameuser family, 1885*
+
+![Peter Blameuser, Jr., circa 1855]({{ site.baseurl }}/assets/img/36.jpg)
 *Peter Blameuser, Jr., circa 1855*
 
 ## The Old Plank Roads
@@ -163,7 +169,7 @@ With the railroad came a voracious appetite for area wood, to be used both as fu
 
 Whole forests were cleared for the valuable lumber and firewood, and the clearings made room for new farms in the township, capitalized by the sale of timber. Amos J. Snell acquired hundreds of acres of woodlands, most of it now on Chicago's north side around Addison and Irving Park. He hired others to clear the land and built a large lumberyard and numerous farmhouses on the land he cleared, renting them out to farmers. Some of the houses were still standing in the second half of the 20th century.
 
-![Map of Niles Centre](link to image)
+![Map of Niles Centre]({{ site.baseurl }}/assets/img/35.jpg)
 *Map of Niles Centre*
 
 
@@ -195,11 +201,11 @@ Ice cream was first sold in the village in 1882 by peddlers in wagons who, for a
 
 At about the same time, a census reported that 1,520 children attended school in Niles Township, an increase of 1,516 over the total in 1838, just 45 years earlier. Despite the growth, not a single village in the township had been formally incorporated, but this was now about to change.
 
-![The original East Prairie school behind several wagonloads of parents and children](link to image)
+![The original East Prairie school behind several wagonloads of parents and children]({{ site.baseurl }}/assets/img/37.jpg)
 *The original East Prairie school behind several wagonloads of parents and children*
 
-![The six children of George C. and Eliza Harms Klehm (left to right:Lydia, George H., Alma, Emma,Edwin, Louise)](link to image)
+![The six children of George C. and Eliza Harms Klehm (left to right:Lydia, George H., Alma, Emma,Edwin, Louise)]({{ site.baseurl }}/assets/img/37b.jpg)
 *The six children of George C. and Eliza Harms Klehm (left to right:Lydia, George H., Alma, Emma,Edwin, Louise)*
 
-![Built in 1874 as Michael Harrer's Meat Market, the Haben house was restored by the Haben family, and is the only structure in the village recorded in the National Register of Historic Places.](link to image)
+![Built in 1874 as Michael Harrer's Meat Market, the Haben house was restored by the Haben family, and is the only structure in the village recorded in the National Register of Historic Places.]({{ site.baseurl }}/assets/img/39.jpg)
 *Built in 1874 as Michael Harrer's Meat Market, the Haben house was restored by the Haben family, and is the only structure in the village recorded in the National Register of Historic Places.*
