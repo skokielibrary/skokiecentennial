@@ -75,6 +75,9 @@
 </head>
 <body>
   <article>
+    {% if page.type == "chapter" %}
+      <h1>{{ page.title }}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}</h1>
+    {% endif %}
     {{ content }}
   </article>
 </body>
