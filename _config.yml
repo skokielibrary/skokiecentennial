@@ -11,3 +11,4 @@ defaults:
       type: "chapters"
     values:
       layout: "base"
+      type: "chapter"
