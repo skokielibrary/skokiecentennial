@@ -201,7 +201,7 @@ Ice cream was first sold in the village in 1882 by peddlers in wagons who, for a
 
 At about the same time, a census reported that 1,520 children attended school in Niles Township, an increase of 1,516 over the total in 1838, just 45 years earlier. Despite the growth, not a single village in the township had been formally incorporated, but this was now about to change.
 
-![The original East Prairie school behind several wagonloads of parents and children]({{ site.baseurl }}/assets/img/37.jpg)
+![The original East Prairie school behind several wagonloads of parents and children]({{ site.baseurl }}/assets/img/37a.jpg)
 *The original East Prairie school behind several wagonloads of parents and children*
 
 ![The six children of George C. and Eliza Harms Klehm (left to right:Lydia, George H., Alma, Emma,Edwin, Louise)]({{ site.baseurl }}/assets/img/37b.jpg)
