@@ -72,16 +72,16 @@ Six standing committees were also established at the second meeting: Finance; Ju
 
 The third meeting, held on April 30, was devoted almost entirely to the subject of improving the new village’s streets, a prime concern of nearly every area resident. The village’s first ordinance, relating to roads, was passed at that meeting. Handwritten minutes of all the earliest board meetings are still on file in the Village Clerk’s office on the first floor of the Village Hall.
 
-![The famous old firehouse on Floral Avenue, now restored to serve as headquarters for the Skokie Historical Society]({{ site.baseurl/assets/img/1981005049.jpg)
+![The famous old firehouse on Floral Avenue, now restored to serve as headquarters for the Skokie Historical Society]({{ site.baseurl }}/assets/img/1981005049.jpg)
 *The famous old firehouse on Floral Avenue, now restored to serve as headquarters for the Skokie Historical Society*
 
-![George C. Klehm (1839-1927)]({{ site.baseurl/assets/img/48.jpg)
+![George C. Klehm (1839-1927)]({{ site.baseurl }}/assets/img/48.jpg)
 *George C. Klehm (1839-1927)*
 
-![Alma Elizabeth Klehm, before 1900]({{ site.baseurl/assets/img/1980014072.jpg)
+![Alma Elizabeth Klehm, before 1900]({{ site.baseurl }}/assets/img/1980014072.jpg)
 *Alma Elizabeth Klehm, before 1900*
 
-![Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls]{{ site.baseurl/assets/img//1981004002.jpg)
+![Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls]{{ site.baseurl }}/assets/img//1981004002.jpg)
 *Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls*
 
 
