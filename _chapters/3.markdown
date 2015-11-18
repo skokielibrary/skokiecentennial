@@ -32,7 +32,7 @@ In 1880, merchants John W. Brown and Samuel Meyer, the latter the son of early s
 
 By 1884, the 250 residents of Niles Centre were served by the Fairview School, two meat markets, two blacksmith shops, three greenhouses, three churches, five stores and six saloons.
 
-![The saloon in the Klehm Brothers store, ca 1900](link to image)
+![The saloon in the Klehm Brothers store, ca 1900]({{ site.baseurl }}/assets/img/1980014071.jpg)
 *The saloon in the Klehm Brothers store, ca 1900*
 
 ## Hints of Modern Times
@@ -48,7 +48,7 @@ The same year that Harms got his telephone (and apparently was able to make a ca
 
 Competition for business between the Baumhardt and Schoening establishments had been sufficiently intense to prompt the owners to take part in a public contest. According to an old story, the two men vied for the title of top Niles Centre blacksmith in a contest as to who could make the most horseshoes in a day. Starting at dawn and working through the afternoon, the two men heated and hammered the shoes without pausing. When the contest was over, Schoening was declared the winner by a margin of a single horseshoe.
 
-![A Niles Center Village Board of Trustees meeting in the old firehouse, sometime between 1919 and 1920.  Members, seated left to right:  Christian Blameuser, Robert Hoffman, Albert Lies, Samuel Meyer, George H. Klehm (Mayor), John W. Brown Sr., Richard Kruse, Charles Langfield (Clerk); standing is an unidentified legal or engineering consultant](link to image)
+![A Niles Center Village Board of Trustees meeting in the old firehouse, sometime between 1919 and 1920.  Members, seated left to right:  Christian Blameuser, Robert Hoffman, Albert Lies, Samuel Meyer, George H. Klehm (Mayor), John W. Brown Sr., Richard Kruse, Charles Langfield (Clerk); standing is an unidentified legal or engineering consultant]({{ site.baseurl }}/assets/img/1980013002.jpg)
 *A Niles Center Village Board of Trustees meeting in the old firehouse, sometime between 1919 and 1920.  Members, seated left to right:  Christian Blameuser, Robert Hoffman, Albert Lies, Samuel Meyer, George H. Klehm (Mayor), John W. Brown Sr., Richard Kruse, Charles Langfield (Clerk); standing is an unidentified legal or engineering consultant*
 
 ## Niles Center Incorporates
@@ -72,16 +72,16 @@ Six standing committees were also established at the second meeting: Finance; Ju
 
 The third meeting, held on April 30, was devoted almost entirely to the subject of improving the new village’s streets, a prime concern of nearly every area resident. The village’s first ordinance, relating to roads, was passed at that meeting. Handwritten minutes of all the earliest board meetings are still on file in the Village Clerk’s office on the first floor of the Village Hall.
 
-![The famous old firehouse on Floral Avenue, now restored to serve as headquarters for the Skokie Historical Society](link to image)
+![The famous old firehouse on Floral Avenue, now restored to serve as headquarters for the Skokie Historical Society]({{ site.baseurl/assets/img/1981005049.jpg)
 *The famous old firehouse on Floral Avenue, now restored to serve as headquarters for the Skokie Historical Society*
 
-![George C. Klehm (1839-1927)](link to image)
+![George C. Klehm (1839-1927)]({{ site.baseurl/assets/img/48.jpg)
 *George C. Klehm (1839-1927)*
 
-![Alma Elizabeth Klehm, before 1900](link to image)
+![Alma Elizabeth Klehm, before 1900]({{ site.baseurl/assets/img/1980014072.jpg)
 *Alma Elizabeth Klehm, before 1900*
 
-![Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls](link to image)
+![Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls]{{ site.baseurl/assets/img//1981004002.jpg)
 *Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls*
 
 
@@ -129,7 +129,7 @@ The village of Niles Centre was governed relatively uneventfully throughout the 
 
 During the final years of the 19th century, the neighboring towns along Lake Michigan grew quickly.  Even by 1890, the population of Evanston had grown to more than 13,000. In its first full decade as an incorporated village, Wilmette more than tripled its population, growing from 419 residents in 1880 to1,458 in 1890. By the year 1900 the population of Niles Centre was 529, growing slowly to just 568 ten years later. Other inland neighbors also grew more slowly than the towns along the lake. In the census of 1910, Niles, still often called Dutchman’s Point, had a population of 569, one more resident than Niles Centre.
 
-![Muddy Lincoln Avenue, looking south from St. Peter's Church, about 1890](link to image)
+![Muddy Lincoln Avenue, looking south from St. Peter's Church, about 1890]({{ site.baseurl }}/assets/img/1986006043.jpg)
 *Muddy Lincoln Avenue, looking south from St. Peter's Church, about 1890*
 
 ## A Turn-of-the-Century Town
@@ -151,7 +151,7 @@ As the twentieth century got underway, the village, and the farmlands around it,
 
 There were many other flower and vegetable growers, as well as various small industries which sprang up to serve them. George W. Mittlestaedt for example, advertised “Hotbed Windows and Glass,” as well as “Farm and Greenhouse Boxes.” Edwin T. Klehm and many others sold seeds. The Niles Centre Mercantile Company, operated by George Busscher, Jr., Anthony Paroubek, and John E. Brown, sold a variety of products designed for flower growers and truck farmers. As late as 1930, an aerial photograph of the Niles Centre area shows dozens of greenhouses scattered throughout the vicinity.
 
-![Inside the Hermes family greenhouse at 9801 Gross Point Road, about 1907.  Left to right:  Nick Hermes, Paul Hermes, John Goedert; the youngster on the right is unidentified](link to image)
+![Inside the Hermes family greenhouse at 9801 Gross Point Road, about 1907.  Left to right:  Nick Hermes, Paul Hermes, John Goedert; the youngster on the right is unidentified]({{ site.baseurl }}/assets/img/1980014018.jpg)
 *Inside the Hermes family greenhouse at 9801 Gross Point Road, about 1907.  Left to right:  Nick Hermes, Paul Hermes, John Goedert; the youngster on the right is unidentified*
 
 ## Turn-of-the-Century Neighborhoods
@@ -171,7 +171,7 @@ Another thriving neighborhood around the turn of the century was located along E
 
 The focal point of the area was the East Prairie School, which had operated in the 1880s as a one-room schoolhouse. In those early days, youngsters walking to school often had to jump ditches because the boards crossing them had washed away. Like most of the Sharp Corner area, East Prairie became part of Niles Centre during the large annexation of 1924.
 
-![Sharp Corner's famed Farmers Exchange was one of the many saloons at the north end of the village, situated on the southwest corner of Golf and Gross Point Roads](link to image)
+![Sharp Corner's famed Farmers Exchange was one of the many saloons at the north end of the village, situated on the southwest corner of Golf and Gross Point Roads]({{ site.baseurl }}/assets/img/1980014035.jpg)
 *Sharp Corner's famed Farmers Exchange was one of the many saloons at the north end of the village, situated on the southwest corner of Golf and Gross Point Roads*
 
 ## Dr. Amelia Louise Klehm
@@ -183,7 +183,7 @@ At one point in her career, Doctor Klehm became a target of the Black Hand, a te
 
 In addition to serving the residents of Niles Centre, she was also on the staff of St. Francis Hospital in Evanston, where her name is honored on a plaque in the lobby. On her deathbed in 1941, Doctor Klehm destroyed her patients’ unpaid bills. Skokie’s Louise Avenue is named after this pioneering doctor.
 
-![Dr. Amelia Louise Klehm can lay claim to being one of the first physicians to set up practice in Skokie (then Niles Centre)](link to image)
+![Dr. Amelia Louise Klehm can lay claim to being one of the first physicians to set up practice in Skokie (then Niles Centre)]({{ site.baseurl }}/assets/img/1981003039.jpg)
 *Dr. Amelia Louise Klehm can lay claim to being one of the first physicians to set up practice in Skokie (then Niles Centre)*
 
 ## Alma Elizabeth Klehm
