@@ -1,17 +1,12 @@
 ---
 title: acknowledgements
 ---
-Acknowledgements
-
-
-
+## Acknowledgements
 This book would not have been possible without the
 cooperation and assistance of many people, gov­ernmental departments, and
 Skokie organizations and businesses. Gratefully acknowledged are:
 
-
-
-Skokie Government
+## Skokie Government
 
 Mayor              Jacqueline
 Gorell
@@ -47,7 +42,7 @@ Counsel Manager
 
 
 
-Centennial Committee
+## Centennial Committee
 
 Honorary 
 Chairman    Albert J. Smith
