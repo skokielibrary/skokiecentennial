@@ -1,16 +1,12 @@
 ---
 title: contributors
 ---
-Centennial Contributors
 
-
-
+## Centennial Contributors
 The following individuals, businesses, and
 organizations have generously contributed to the Skokie centennial celebration.
 
-
-
-Individuals
+## Individuals
 
 Jack & Lovadore Bode
 
@@ -26,7 +22,7 @@ Mr. & Mrs. Harvey Schwartz
 
 
 
-Businesses and Organizations
+## Businesses and Organizations
 
 American Airlines
 
