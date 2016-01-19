@@ -2,7 +2,6 @@
 title: "8"
 subtitle: "Religions"
 ---
-Chapter 8: Religions
 
 SINCE THE EARLIEST FRENCH MISSIONARIES and explorers found a waterway through northern Illinois by way of the Great Lakes and the Chicago Portage, the history of the area has been closely allied with religion. The intensely Germanic roots of the modern village of Skokie can easily be seen through the stories of its oldest Protestant and Catholic churches, which began with German language services that continued until the early years of the 20th century.
 
@@ -13,6 +12,7 @@ The influence of European culture was felt again, in the early 1950s, when large
 By the middle 1980s, the village of Skokie had 12 Protestant churches representing all the major Protestant denominations; 10 Jewish congregations, in-eluding traditional, orthodox, conservative, and reformed; and three Roman Catholic churches. This wealth of spiritual resources took more than a century to create.
 
 ## German Pioneer Heritage
+
 In the early 1860s, most of the German Catholics who had settled within the present-day boundaries of Skokie walked or rode in buckboards to St. Joseph’s Church in Gross Point (Wilmette) to attend mass. At the time, the limited development in the area necessitated that St. Joseph’s serve a wide parish area, extending from Waukegan at the north and southward to Buffalo Grove and Des Plaines.
 
 German Protestants also faced the dilemma of traveling far to attend church services, or attending none at all. At the wedding dinner of George Klehm and Eliza Harms, the groom expressed his dismay that there was no church in the settlement.
@@ -50,6 +50,7 @@ The present sanctuary, at the intersection of Oakton and Laramie, was completed 
 The two St. Peter’s churches, one Protestant and the other Catholic, are familiar landmarks in the downtown area of the village. Both are fitting testimony to the ecumenical spirit of one of Skokie’s founding fathers.
 
 ## Protestant Diversity
+
 A severe test of strength for the old St. Peter’s German Evangelical Lutheran Church arose little more than a decade after it was organized. Among various members of the congregation, differences began to arise over the conduct of the church’s Sunday School, notably the liberal use of the rod by Reverend Werner, and the overall affiliation with the German Evangelical Synod. With iron-fisted determination, Reverend Werner staunchly opposed those who sought affiliation with one of the American Lutheran Synods, especially the Missouri Synod, some of whose members had approached congregational leaders.
 
 Finally, the leadership of Reverend Werner itself became the greatest issue in the growing feud that culminated during the annual church meeting in the autumn of 1880. In a close vote, it was decided to retain Reverend Werner, but within a month, 27 members of the church resigned. Although Henry Harms and George Klehm sided with the pastor, other influential members of the church, including Ernest Galitz, William Eggert, Henry Rohr, and Christian Langfeldt left, forming a new church enrolled in the Missouri Synod of the Lutheran Church.
@@ -64,10 +65,11 @@ For many years, extending well into the second half of the twentieth century, St
 
 One of the unique facets of St. Paul’s, Skokie’s third oldest church, has been the longevity of its pastors. The church’s first minister, the Reverend Frederick Detzer, served for half a century, from 1881 to 1931. He was succeeded by the Reverend Otto F. Arndt, who served as pastor of St. Paul’s for the next three decades, until 1962. It was under Reverend Arndt’s direction that construction of the new grade school building at St. Paul’s was completed and opened in 1955.
 
-![The original Protestant St. Paul's Lutheran Church, which was dedicated in June 1881 and replaced in 1910 by the present church which is at 7870 Niles Center Road]({{ site.baseurl }}/assets/img/)
+![The original Protestant St. Paul's Lutheran Church, which was dedicated in June 1881 and replaced in 1910 by the present church which is at 7870 Niles Center Road]({{ site.baseurl }}/assets/img/1980017005.jpg)
 *The original Protestant St. Paul's Lutheran Church, which was dedicated in June 1881 and replaced in 1910 by the present church which is at 7870 Niles Center Road*
 
 ## Multiplying Denominations
+
 The earliest English-speaking church in Niles Center did not survive the passing years. For a time starting in the early 1870s, English services were conducted by Methodists in the old Fairview School building. By the turn of the century, the Methodists were gone.
 
 For the first three decades of the 1900s, Niles Center had only three places of worship: the two St. Peter’s churches and St. Paul’s. But during the early 1930s, the number doubled.
@@ -87,6 +89,7 @@ In March 1930, a handful of villagers who were members of Christian Science chur
 Although three new churches were organized around 1930, the years of the Depression followed by the war years took their toll, both in terms of the population growth of the village soon to be named Skokie and in the growth of its religious facilities as well. Lincolnwood’s St. John’s Lutheran Church was founded in 1942, the consolidated Lutheran school four years later. But a new church in Skokie was not organized until 1947.
 
 ## Protestant Churches
+
 Carter Westminster Presbyterian, 4950 Pratt Avenue
 
 Central United Methodist, 8237 Kenton Avenue
@@ -120,6 +123,7 @@ St. Timothy’s Lutheran, 9000 Kildare Avenue
 Trinity Lutheran, 3637 Golf Road
 
 ## Postwar Growth
+
 Today’s Carter-Westminster United Presbyterian Church has its roots implanted in the year 1947, when the Carter Memorial Presbyterian Church was organized. The congregation began as a mission project and met in the village pump house. The present sanctuary at Pratt and Lavergne was dedicated in 1952.
 
 On May 3, 1931, the church merged with the Carter Memorial Presbyterian Church, an organization composed largely of Christians of Assyrian background from Chicago.
@@ -133,6 +137,7 @@ St. Joan of Arc, under the guidance of its first pastor, Reverend Francis P. Gal
 Also in 1951, Reverend Francis J. Trainer oversaw the establishment of St. Lambert’s parish. The first mass was celebrated in the Cleveland school gymnasium in September of that year, and services were held there until the modernistic new church of St. Lambert’s was completed in 1960.
 
 ## Roman Catholic Churches 
+
 St. Joan of Arc, 9248 Lawndale Avenue
 
 St. Lambert’s, 8148 Karlov
@@ -149,10 +154,11 @@ Today’s Crawford Avenue Baptist Church was born in the 1950s, when a small con
 
 North Shore Assembly of God, 9779 Gross Point Road, is the village’s youngest Christian Church. It was founded in June 1964.
 
-![St Joan of Arc Church at 9248 Lawndale Avenue]({{ site.baseurl }}/assets/img/)
+![St Joan of Arc Church at 9248 Lawndale Avenue]({{ site.baseurl }}/assets/img/1980017005.jpg)
 *St Joan of Arc Church at 9248 Lawndale Avenue*
 
 ## Jewish Synagogues
+
 The decades following the end of World War II saw a rapid growth of many suburban areas of Chicago, especially Skokie and Niles Township. During the middle 1950s, more than half of the newcomers to the village were Jewish families. The movement of large numbers of people away from the congestion of Chicago as well as other large American cities soon resulted in a distinct need for religious facilities in Skokie and its surrounding areas to serve people of the Jewish faith.
 
 During 1951, a number of parents began operating a Sunday School for the growing number of Jewish children in the area who had no local source of religious training outside of the home. By mid-January of the following year, the same group sent out a questionnaire to the approximately 150 families in the township known to be of the Jewish faith, asking if any would be interested in organizing a synagogue. The result of an overwhelming response, a meeting was held in April 1952 in the Skokie Village Hall. Harold L. De Love, a village resident, was elected first president of the synagogue and the name Niles Township Jewish Congregation was adopted. The first Jewish service in the history of Niles Township was held May 16, 1952, at Village Hall.
@@ -185,35 +191,16 @@ In the downtown district and the neighborhoods, churches and synagogues are some
 
 By the mid-1980s, there were 10 synagogues in Skokie, including conservative, orthodox, traditional, and reform.
 
-Congregation Bnai Emunah, (Conservative)
-9131 Niles Center Rd
+- Congregation Bnai Emunah, (Conservative), 9131 Niles Center Rd
+- Kol Emeth Synagogue (Conservative), 5130 Touhy Ave
+- Niles Township Jewish Congregation (Conservative), 4500 Dempster St
+- Congregation Or Torah (Orthodox), 3740 Dempster St
+- Persian Hebrew Congregation (Orthodox), 3820 Main St
+- Skokie Central Traditional Congregation, 4040 Main St
+- Skokie Valley Traditional Congregation, 8825 East Prairie Rd
+- Temple Beth Israel (Reform), 9129 Skokie Blvd
+- Temple Judea Mizpah (Reform), 8610 Niles Center Rd
+- Congregation Bene Shalom of the Hebrew Association of  the Deaf, 4435 Oakton St
 
-Kol Emeth Synagogue (Conservative)
-5130 Touhy Ave
-
-Niles Township Jewish Congregation (Conservative)
-4500 Dempster St
-
-Congregation Or Torah (Orthodox)
-3740 Dempster St
-
-Persian Hebrew Congregation (Orthodox)
-3820 Main St
-
-Skokie Central Traditional Congregation
-4040 Main St
-
-Skokie Valley Traditional Congregation
-8825 East Prairie Rd
-
-Temple Beth Israel (Reform)
-9129 Skokie Blvd
-
-Temple Judea Mizpah (Reform)
-8610 Niles Center Rd
-
-Congregation Bene Shalom of the Hebrew Association of  the Deaf
-4435 Oakton St
-
-The Jewish Congregation Bnai Emunah at
-9131 Niles Center Road
+![The Jewish Congregation Bnai Emunah at 9131 Niles Center Road]({{ site.baseurl }}/assets/img/1999001089.jpg)
+*The Jewish Congregation Bnai Emunah at 9131 Niles Center Road*
