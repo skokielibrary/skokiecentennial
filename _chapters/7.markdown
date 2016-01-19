@@ -2,7 +2,6 @@
 title: "7"
 subtitle: "Business and Commerce"
 ---
-Chapter 7: Business and Commerce
 
 In the mid-1800s, Niles Centre was essentially an agricultural settlement, independent of the city of Chicago for the simple reason that roads and transportation were not yet a real part of the area’s way of life. This promoted the development of local businesses that catered directly to the needs and desires of the area residents.
 
@@ -26,31 +25,32 @@ Individual entrepreneurs also flourished. In 1925, Ambrose Brod founded the Nile
 
 After World War II, the influx was of larger businesses and corporate offices, but still small businesses thrived, especially in downtown Skokie. In fact, the downtown business district was highly regarded throughout the area as a fashion center with a variety of clothing stores.
 
-![Siegal's Cigar Store at 8022 Lincoln Avenue]({{ site.baseurl }}/assets/img/)
+![Siegal's Cigar Store at 8022 Lincoln Avenue]({{ site.baseurl }}/assets/img/1981006002.jpg)
 *Siegal's Cigar Store at 8022 Lincoln Avenue*
 
-![Paroubek's Bakery about 1900, then at 8057 Niles Center Road]({{ site.baseurl }}/assets/img/)
+![Paroubek's Bakery about 1900, then at 8057 Niles Center Road]({{ site.baseurl }}/assets/img/1980014045.jpg)
 *Paroubek's Bakery about 1900, then at 8057 Niles Center Road*
 
-![Fix-It Shop that apparently had plenty of bicycle business on Oakton just east of Lincoln]({{ site.baseurl }}/assets/img/)
+![Fix-It Shop that apparently had plenty of bicycle business on Oakton just east of Lincoln]({{ site.baseurl }}/assets/img/1980001003.jpg)
 *Fix-It Shop that apparently had plenty of bicycle business on Oakton just east of Lincoln*
 
-![The Lohrke Bros. blacksmith shop on Niles Center Road just north of St. Peter's Catholic Church about 1902]({{ site.baseurl }}/assets/img/)
+![The Lohrke Bros. blacksmith shop on Niles Center Road just north of St. Peter's Catholic Church about 1902]({{ site.baseurl }}/assets/img/1987041001.jpg)
 *The Lohrke Bros. blacksmith shop on Niles Center Road just north of St. Peter's Catholic Church about 1902*
 
-![The Paroubek Harness Maker shop at 8045 Lincoln Avenue in 1898 (it is believed the man posing in front of it is Ivan Paroubek)]({{ site.baseurl }}/assets/img/)
+![The Paroubek Harness Maker shop at 8045 Lincoln Avenue in 1898 (it is believed the man posing in front of it is Ivan Paroubek)]({{ site.baseurl }}/assets/img/1980014070.jpg)
 *The Paroubek Harness Maker shop at 8045 Lincoln Avenue in 1898 (it is believed the man posing in front of it is Ivan Paroubek)*
 
-![Four generations of the Busscher family, which was instrumental in the development of business in Niles Centre:  left to right:  George, III; George, Jr.; George D; George, Sr]({{ site.baseurl }}/assets/img/)
+![Four generations of the Busscher family, which was instrumental in the development of business in Niles Centre:  left to right:  George, III; George, Jr.; George D; George, Sr]({{ site.baseurl }}/assets/img/1987049008.jpg)
 *Four generations of the Busscher family, which was instrumental in the development of business in Niles Centre:  left to right:  George, III; George, Jr.; George D; George, Sr*
 
-![Peter Blameuser's business card]({{ site.baseurl }}/assets/img/)
+![Peter Blameuser's business card]({{ site.baseurl }}/assets/img/132.jpg)
 *Peter Blameuser's business card*
 
-![The northwest corner of Lincoln and Oakton circa 1930. At the far left of the picture is the National Bank of Niles Center]({{ site.baseurl }}/assets/img/)
+![The northwest corner of Lincoln and Oakton circa 1930. At the far left of the picture is the National Bank of Niles Center]({{ site.baseurl }}/assets/img/134.jpg)
 *The northwest corner of Lincoln and Oakton circa 1930. At the far left of the picture is the National Bank of Niles Center*
 
 ## Corporate Neighbors
+
 By the 1980s, Skokie was the home of more than 400 industrial and commercial corporations and corporate offices, a number of them nationwide leaders in their fields. Among the major business interests represented are pharmaceuticals, sporting goods, scientific and industrial equipment, video tapes, publishing, and electronics.
 
 One of the first corporations in Skokie and certainly one of the most important, is G.D. Searle &
@@ -75,19 +75,20 @@ In 1961, the Welch Company, a maker of scientific instruments and apparatus, rel
 
 In the 1970s, Skokie witnessed the arrivals of the Brunswick Corporation, the North Shore Hilton Hotel, and the W.W. Grainger Company. Brunswick, perhaps best known for its bowling and billiards equipment, is, however, a broad-based company that manufactures a wide variety of marine and industrial products as well. Its offices in Skokie at 1 Brunswick Plaza serve as headquarters for two of the company’s divisions, Bowling Recreation Centers and Defense, and employ approximately 300 people. The North Shore Hilton, at the corner of Skokie Boulevard and Golf Road, opened its doors in 1973, and today has 368 rooms and suites. W.W. Grainger moved its corporate headquarters from Niles to Skokie in 1979, and currently resides on Howard Street just off Edens Expressway. The company, with sales of more than $1 billion annually, catalogs about 19,000 products, mostly in the areas of power and hand tools, heating and air conditioning equipment, and lighting materials.
 
-![The Ace Hardware Store at 8045 Lincoln, which evolved from the Niles Center Mercantile Company]({{ site.baseurl }}/assets/img/)
+![The Ace Hardware Store at 8045 Lincoln, which evolved from the Niles Center Mercantile Company]({{ site.baseurl }}/assets/img/1987049020.jpg)
 *The Ace Hardware Store at 8045 Lincoln, which evolved from the Niles Center Mercantile Company*
 
-![Downtown Skokie looking north from the corner of Oakton and Lincoln (ca 1946)]({{ site.baseurl }}/assets/img/)
+![Downtown Skokie looking north from the corner of Oakton and Lincoln (ca 1946)]({{ site.baseurl }}/assets/img/136.jpg)
 *Downtown Skokie looking north from the corner of Oakton and Lincoln (ca 1946)*
 
-![Modern Skokie business, represented here by the sculpture in front of the Fel-Pro Inc. building at 7450 McCormick Boulevard [Photo by Robert A Smith]]({{ site.baseurl }}/assets/img/)
+![Modern Skokie business, represented here by the sculpture in front of the Fel-Pro Inc. building at 7450 McCormick Boulevard [Photo by Robert A Smith]]({{ site.baseurl }}/assets/img/137a.jpg)
 *Modern Skokie business, represented here by the sculpture in front of the Fel-Pro Inc. building at 7450 McCormick Boulevard [Photo by Robert A Smith]*
 
-![G.D. Searle & Co. buildings just off Edens Expressway at Old Orchard Road [Photo by Gerald Scott]]({{ site.baseurl }}/assets/img/)
+![G.D. Searle & Co. buildings just off Edens Expressway at Old Orchard Road [Photo by Gerald Scott]]({{ site.baseurl }}/assets/img/137b.jpg)
 *G.D. Searle & Co. buildings just off Edens Expressway at Old Orchard Road [Photo by Gerald Scott]*
 
 > ### Old Orchard Shopping Center
+>
 >In October 1956, a little more than six years after the massive project was first announced by Hughston M. McBain, Chairman of the Board of Marshall Field and Company, Skokie’s Old Orchard Shopping Center opened its doors to visitors from all over the north suburbs and Chicago.
 >
 >Although elegant shopping malls are now relatively commonplace, Old Orchard was the first in the area and remains one of the most famous and successful. Built on 100 acres of land just east of Edens Expressway, at Golf Road and Skokie Boulevard, the center features about 65 stores connected by stone concourses, and brightened by landscaping of trees and shrubs, seasonal flower gardens, sparkling fountains, pools and footbridges.
@@ -97,11 +98,12 @@ In the 1970s, Skokie witnessed the arrivals of the Brunswick Corporation, the No
 >In 1977, Urban Investment sold a 90 percent interest in Old Orchard to BKCG Private Acquisition Group Ltd. In June 1984, JMB Realty Corporation, one of the largest real estate syndication companies in the U.S., bought a majority interest in the shopping center for an undisclosed price.
 >
 >The Old Orchard complex has approximately 1.2 million square feet of retail space and a seven-story, 60,000-square-foot office and administration building. Total retail sales in the 1980s have averaged close to $200 million annually.
-
-![Old Orchard Shopping Center, view of Montgomery Ward Store, 1985]({{ site.baseurl }}/assets/img/)
+>
+> ![Old Orchard Shopping Center, view of Montgomery Ward Store, 1985]({{ site.baseurl }}/assets/img/1985034012.jpg)
 *Old Orchard Shopping Center, view of Montgomery Ward Store, 1985*
 
 ## Financial Institutions
+
 The Niles Centre State Bank, founded in 1907, wove its way through the Roaring 20s, the Great Depression, World War II, and in the 1950s was known as the First National Bank of Skokie. It did not become the NBD Skokie Bank until 1987. With clearly the longest heritage of any financial institution in the village, it also lays claim to being the largest exclusively in Skokie with assets today in excess of $400 million. It employs more than 175 people, and is headquartered at 8001 Lincoln Avenue.
 
 Competition for money in Skokie, however, became a vivid reality in the mid-1950s when three new financial institutions came to life.
@@ -113,9 +115,10 @@ The following year, the Skokie Trust and Savings Bank opened its doors to the pu
 Since then, the village has added the Ben Franklin Savings & Loan Association, Citicorp Savings, Savings of America, St. Paul Federal, Talman Home Federal, and branches of the Eden Bank, the Bank of Lincolnwood, and the American National Bank.
 
 ## Summing It Up
+
 Besides the more than 400 commercial and industrial corporations residing in the village, Skokie can also lay claim to more than 1,000 retail stores, restaurants, and offices. Located in downtown Skokie, Old Orchard Shopping Center, the new Fashion Square Mall, and in other areas of the village, these establishments offer an enormous variety of goods and services not only to the citizens of Skokie but to those of the entire area surrounding it as well.
 
 Henry Harms, the Blaumeuser’s, the Klehm's, and the other pioneer merchants of the village would undoubtedly be more than mildly astonished to learn that Skokie’s retail sales in the late 1980s are more than $500 million annually, ranking 10th in the entire state of Illinois.
 
-![Restaurants and saloons have always been an important part of Skokie history. Elliott's Pine Log, just one of many, served customers at the corner of Howard and Skokie Boulevard from 1939 until its closing in 1988.]({{ site.baseurl }}/assets/img/)
+![Restaurants and saloons have always been an important part of Skokie history. Elliott's Pine Log, just one of many, served customers at the corner of Howard and Skokie Boulevard from 1939 until its closing in 1988.]({{ site.baseurl }}/assets/img/139.jpg)
 *Restaurants and saloons have always been an important part of Skokie history. Elliott's Pine Log, just one of many, served customers at the corner of Howard and Skokie Boulevard from 1939 until its closing in 1988.*
