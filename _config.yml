@@ -1,5 +1,5 @@
 title: "Skokie: A Centennial History"
-baseurl: /skokiecentennial
+baseurl: ""
 collections:
   chapters:
     output: true
