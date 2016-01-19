@@ -24,6 +24,7 @@ The improvements on what is today Lincoln Avenue and the railroad through Morton
 In 1880, merchants John W. Brown and Samuel Meyer, the latter the son of early settlers Nicholas and Elizabeth Meyer, bought George Klehm’s dry goods, saloon, and grocery business. The store provided a wide variety of goods and services, living up to the slogan, “doing everything for the farmer that the farmer couldn’t do,” including the drawing up of wills.
 
 > ### Saloons
+>
 >The six saloons in Niles Centre in the mid 1880s were a concern to the neighboring settlements. According to Early Skokie, the League of Women Voters brochure published in 1976, “Evanston, our neighbor to the east, and dry as a bone, made us a missionary target. They labeled our village ‘the rising hell hole.’
 >
 >“Every Sunday the good missionaries would arrive here singing such hymns as ‘THROW OUT THE LIFELINE, SOMEBODY IS SINKING TODAY.’ They were an impressive sight on their horse-drawn buggies and excited children gathered about to watch. The missionaries used the old Fairview School for services, establishing it as the first English-speaking Sunday school in Niles Centre.
@@ -36,6 +37,7 @@ By 1884, the 250 residents of Niles Centre were served by the Fairview School, t
 *The saloon in the Klehm Brothers store, ca 1900*
 
 ## Hints of Modern Times
+
 The years leading up to the incorporation of Niles Centre brought still more changes to the area. The first telephone in the township was installed, probably in 1885, at a toll road station west of Wilmette. On September 15 of that year, the Chicago telephone directory carried a listing for “Niles Centre, Ill.” By 1886, a second telephone was installed in the home of Henry Harms. The Chicago directory now included the following entry:
 
 “Niles Centre, Ill.
@@ -81,7 +83,7 @@ The third meeting, held on April 30, was devoted almost entirely to the subject 
 ![Alma Elizabeth Klehm, before 1900]({{ site.baseurl }}/assets/img/1980014072.jpg)
 *Alma Elizabeth Klehm, before 1900*
 
-![Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls]{{ site.baseurl }}/assets/img/1981004002.jpg)
+![Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls]({{ site.baseurl }}/assets/img/1981004002.jpg)
 *Dr. Amelia Louise Klehm (1870-1941) in the carriage in which she used to make house calls*
 
 
@@ -96,6 +98,7 @@ The third meeting, held on April 30, was devoted almost entirely to the subject 
 >The motive for the crime was never discovered, but it is known that many users of the toll roads in northern Illinois were becoming increasingly resentful of the fees they were compelled to pay for driving wagons on private roads. Complaints were many, as were attempts to dodge the toll by driving around the tollgates. Whether the culprit was Willie Tascott or a disgruntled toll-road traveler remains a mystery.
 
 ## Early Village Ordinances
+
 It was at the fourth meeting that ordinances establishing the real legal character of the new village were adopted. At the meeting of the Niles Centre Village Board, held at the firehouse on May 8, 1888, the trustees passed 10 ordinances. Covering some 15 printed pages, they were published in booklet form with a few additional laws the following year by the Chicago printing firm of Holton & Furbush. The booklet, now a century old, still exists. So that area residents could see the new ordinances more quickly, copies of the laws were also printed individually and posted in a number of different public locations, one at the post office, another at Meyer and Brown’s store and a third at the saloon of Ludwig Schmitz.
 
 The first of the ordinances passed during the May 8 meeting, Ordinance No. 2, established the boundaries of the new village in terms only a surveyor could love:
@@ -111,6 +114,7 @@ In addition to Ordinance No. 2, establishing the boundaries of the village, a nu
 The license for a dram shop required the hefty fee of $150 plus the posting of a $3,000 bond payable to the state. Peddlers of food and other staples could acquire a license to sell their goods within the village limits, with fees averaging $10 a year. The carefully worded ordinances, undoubtedly patterned after those in other municipalities, helped to give the village a solid legal foundation, but growth, nevertheless, came slowly.
 
 ## A Lively Decade
+
 The 1890s began riotously. Early in May 1890, a group of farmers disguised as Indians attacked the tollgate, then owned by the heirs of Amos Snell, on Milwaukee Avenue at Fullerton. Angered that the Cook County Board had not taken fast action on their complaint made April 28 over high fees for the toll road, the ersatz Indians chased away the toll keeper shortly after midnight and burned his house and the tollgate to the ground. When police arrived, they did nothing to stop the mob, apparently sympathetic with their views.
 
 The event to the south had an immediate effect on the residents of Niles Centre. Shortly after the attack, Cook County purchased the rights to Milwaukee Avenue from Amos Snell’s heirs, and those to Lincoln Avenue from Henry Harms. Although a single tollbooth remained on Milwaukee Avenue as late as 1892, the entire toll-road system was then abolished by the county. Both roads, once plank roads and later gravel roads, have remained public property ever since. But there is evidence that the county had as much trouble maintaining the roads as private owners had in earlier years. Testimony to that fact is found in this recorded anecdote. Near the end of the decade, in 1899, George H. Klehm stood for a week on Lincoln Avenue asking every passing teamster to haul a load of gravel to improve the road, which was sometimes nearly impassable to Chicago. In addition to 30 loads of broken bricks donated by two area brickyards to use as road fill, Klehm finally succeeded in getting 169 loads of gravel hauled free.
@@ -133,6 +137,7 @@ During the final years of the 19th century, the neighboring towns along Lake Mic
 *Muddy Lincoln Avenue, looking south from St. Peter's Church, about 1890*
 
 ## A Turn-of-the-Century Town
+
 In 1900, Niles Centre was still a tiny village amid rapidly growing communities to the south and east. Best known at the time for its market days, truck farms, greenhouses and saloons, it was still small enough so that just about everyone knew everyone else. Many of the inhabitants were related, the overwhelming majority still of German origin or descent.
 
 There were still no paved roads. Early photographs show deep ruts on the main streets such as Harms Road (now Oakton), Main Street, Back Street (now Floral Avenue), Lincoln Avenue and Market Street (Warren Avenue). The going must have been tough enough for horses and mules, and nearly impossible for the earliest motorcars.
@@ -155,6 +160,7 @@ There were many other flower and vegetable growers, as well as various small ind
 *Inside the Hermes family greenhouse at 9801 Gross Point Road, about 1907.  Left to right:  Nick Hermes, Paul Hermes, John Goedert; the youngster on the right is unidentified*
 
 ## Turn-of-the-Century Neighborhoods
+
 A neighborhood north of the original boundaries of Niles Centre could easily have become a town itself, but instead was annexed to the village in the 1920s. Sharp Corner, as it was known, developed around the sharp-angled intersection of two roads, Gross Point and Kenton (the continuation of Niles Center Road) and, as a loosely-defined neighborhood, also included the intersection of Gross Point and Golf and environs north to present-day Old Orchard Road.
 
 Today’s Sharp Corner School was built in 1897 and greatly expanded in later years. An old map dated 1876, however, shows the location of the original frame school at Sharp Corner across the street from the present building. In the 1920s, Sharp Corner School was a two-room building, heated with a pot-bellied stove and dimly lighted with kerosene lamps. When parents traveled to the little building in the evening for meetings, they often brought their own lanterns for additional light.
@@ -175,6 +181,7 @@ The focal point of the area was the East Prairie School, which had operated in t
 *Sharp Corner's famed Farmers Exchange was one of the many saloons at the north end of the village, situated on the southwest corner of Golf and Gross Point Roads*
 
 ## Dr. Amelia Louise Klehm
+
 A number of Niles Centre’s most prominent citizens were among the six children born to George C. Klehm and his first wife, the former Louise Harms. Amelia Louise Klehm, born in 1870, began her career in the medical profession as a nurse, volunteering for duty in the Spanish-American War and caring for wounded soldiers in Florida. After the war, she studied at Chicago’s College of Physicians and Surgeons and later traveled to Europe to study in Berlin and Vienna before returning permanently to Niles Centre. Dr. Klehm seemed to prefer the name Louise, often signing her name “A. Louise Klehm’
 
 Around the turn of the century, she opened her first office in the back of the family store at Lincoln and Oakton, later moving to the Klehm homestead at 8212 Lincoln. Regardless of the location of her office, she often made house calls, traveling in a horse and buggy and sometimes on horseback to visit patients at any time of the day or night and in any weather. Her fee for delivering a baby was $15.
@@ -187,6 +194,7 @@ In addition to serving the residents of Niles Centre, she was also on the staff 
 *Dr. Amelia Louise Klehm can lay claim to being one of the first physicians to set up practice in Skokie (then Niles Centre)*
 
 ## Alma Elizabeth Klehm
+
 For many years during the middle decades of the 20th century, Alma Klehm was the oldest lifetime resident of Skokie. She was also a guiding force in the civic and cultural life of the village for many years.
 
 Born in 1876, the youngest of George and Louise Klehm’s six children, her mother died before she was three years old. In 1881 her father married Eliza Ruesch with whom he had six additional children. Alma became one of the first youngsters in the area to attend high school. She rode a bike or walked to the Morton Grove station and took the train to Chicago’s Mayfair High School (later renamed Carl Schurz High School). Following her graduation, she passed a state examination qualifying her to teach grades 1-8.

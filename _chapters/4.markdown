@@ -6,6 +6,7 @@ subtitle: "Niles Center"
 NO RESIDENT failed to note the well-publicized event when the village changed its name to Skokie in 1940. But a much earlier name change was only vaguely noticed. The official name of the village when it was incorporated in 1888 was Niles Centre. But three years later, the October 1, 1891 edition of the Chicago telephone directory changed the spelling to the Americanized Niles Center. Over a period of more than two decades, villagers gradually adopted the new spelling. Still, for years, stores, billboards and signs displayed a mixture of the two spellings. The Village Board, in fact, was one of the last organizations to continue using the original spelling. Clerks Frank Wagner, Peter Blameuser, III, John Paroubek, Henry Heinz and George Busscher, Jr., all prepared their documents using the original spelling. The practice ended without fanfare, however, by the time Anthony Paroubek became clerk in 1910.
 
 ## A Little Capital of Silent Films
+
 Beginning around 1905 before most of the large movie studios moved west to Hollywood, the heart of Niles Centre was the location for the filming of dozens of silent movies produced by the old Essanay Film Manufacturing Company. Soon after the turn of the century, Essanay began producing silent films at its studio at 1315 Argyle in Chicago. Among the stars who began their careers there were Gloria Swanson, Wallace Beery, Ben Turpin, Pauline Frederick, Edward Arnold, the Keystone Cops and the Our Gang kids. Wallace Beery and Gloria Swanson were married in the same studio.
 
 Because the downtown area of Niles Centre resembled a western town, Essanay executives decided to use it as a location for outdoor sequences in many of its popular cowboy and Indian movies. During the early 1900s, wagonloads of actors and actresses traveled daily to Niles Center, where elaborate scenes, including gunfights and Indian attacks, were filmed.
@@ -25,6 +26,7 @@ As glorious as they were, Niles Center’s years as a movie capital were short-l
 >"After the wounded man had been driven away to St. Francis Hospital the producers came back into Tony's and asked for the movie tickets, because they explained, 'this won't even be a picture'."
 
 ## Stability and the Railroad
+
 Historical accounts of the arrival of the village’s first railroad differ, with several citing the years 1910 to 1915. But revised records of the Northwestern Railroad, and some local newspaper accounts made in later years, indicate that two sets of tracks were constructed as a branch line through the village in 1903. With some degree of certainty, it seems safe to say that Niles Centre residents could travel by train to Chicago for the first time in 1903 or 1904 merely by walking to the Northwestern station at Oakton Street just west of Cicero, instead of traveling the much longer distance to Morton Grove.
 
 > ### Making Movies
@@ -33,7 +35,7 @@ Historical accounts of the arrival of the village’s first railroad differ, wit
 
 “Tony remembers one day in 1912 when the movie men came into his place, had a round of drinks and gave him some tickets for the picture they were about to film. At the start of this melodrama, the actors staged a fearless bank robbery in the Niles Center State Bank and then ran across the street where their horses were stamping against the ties which held them to their hitching posts. In a blaze of shots and frenzy, they were off. One of the horses stumbled and fell upon his unfortunate rider who was fatally injured.
 
-“After the wounded man had been driven away to St. Francis Hospital the producers came back into Tony’s and asked for the movie tickets, because they explained, ‘this won’t even be a picture.” 
+“After the wounded man had been driven away to St. Francis Hospital the producers came back into Tony’s and asked for the movie tickets, because they explained, ‘this won’t even be a picture.”
 
 In the earliest days, service consisted of southbound trains to Chicago at 7:30 and 10 a.m., and northbound trains from the city at 3 and 6 p.m. Sometime later, service was increased to three trains in each direction. Apparently there was some initial concern that the new train system would bring undesirable elements to the village. In later years, George E. Blameuser recalled how “a marshal met each train as it came in and if a stranger got off he had to have business in Niles Center or he’d go into the calaboose.” The village jail was located in the old firehouse on Floral Avenue.
 
@@ -51,13 +53,14 @@ During the year 1910, George H. Klehm also organized the village’s first baseb
 
 On August 29 of that same year, the Chicago Telephone Company began operating an exchange in Niles Center, providing crank-type service to the area and free calls to neighboring Niles and Morton Grove.
 
-![The Bachelor Maidens, a group of young women who formed a social club and sponsored a dance each year queue up here somewhere around 1900.  Leading what looks like a version of the Bunny Hop is Alma Klehm.](link to image)
+![The Bachelor Maidens, a group of young women who formed a social club and sponsored a dance each year queue up here somewhere around 1900.  Leading what looks like a version of the Bunny Hop is Alma Klehm.]({{ site.baseurl }}/assets/img/1981003013.jpg)
 *The Bachelor Maidens, a group of young women who formed a social club and sponsored a dance each year queue up here somewhere around 1900.  Leading what looks like a version of the Bunny Hop is Alma Klehm.*
 
-![The Niles Centre Hotel, replete with saloon, located on today's southeast corner of Oakton and Lincoln, was the site of this pre-Prohibition picnic and dance.](link to image)
+![The Niles Centre Hotel, replete with saloon, located on today's southeast corner of Oakton and Lincoln, was the site of this pre-Prohibition picnic and dance.]({{ site.baseurl }}/assets/img/1997031002.jpg)
 *The Niles Centre Hotel, replete with saloon, located on today's southeast corner of Oakton and Lincoln, was the site of this pre-Prohibition picnic and dance.*
 
 ## The Big Fire of 1910
+
 It began on what village residents remembered as a “windy day,” but the exact date of the fire that destroyed much of downtown Niles Center has never been established, even though it was known to be a market day.
 
 There were no village newspapers in Niles Center in 1910, and reports in other area newspapers were limited. For many years, the fire was believed to have occurred in October, but recent research has uncovered a reference to it in the Evanston Press of September 10, 1910.
@@ -72,6 +75,8 @@ The fire began in the midst of a prolonged dry spell, and the wind undoubtedly p
 
 Some accounts of the fire’s duration differ, but its aftermath was all too clear. Much of the block on the west side of Lincoln, from the Blameuser Building (which was spared, probably because of the direction of the wind) northward about four lots had been destroyed. Since there were only a few buildings on the east side of the street, the fire essentially consumed the heart of Niles Center’s business district.
 
+
+
 The fire itself was not the only problem. It occurred on a market day, a time when hundreds of outsiders had crowded into the streets of the little village. As the fire spread along Lincoln, residents began carrying their belongings out onto the street, hoping to save at least some from the conflagration. Instead, they made their possessions all the more accessible to thieves, who began looting as soon as goods were carried into the open. Mayor George H. Klehm worked quickly to deputize an emergency force of police officers to battle against thievery.
 
 It was the Blameuser family lagoon, along with the efforts of many fire fighters, that is generally credited with saving the town from complete destruction. The little pond that eventually provided water to douse the flames had been created when Blameuser dug clay out of the ground behind his house on Oakton east of Lincoln for the purpose of selling it. Later, the hole was filled with water and used for ice skating and as a source of ice in the winter. George E. Blameuser recalled that his family “used to cut 2,500 tons of ice a year from the lagoon.” But the lagoon had never been put to better use than in September 1910, and many area residents expressed their gratitude to the Blameuser family for years.
@@ -79,6 +84,7 @@ It was the Blameuser family lagoon, along with the efforts of many fire fighters
 The tragic fire had two positive side effects, however. Just as Chicago’s residents had done following that city’s historic fire of 1871, which also began in a barn and occurred during a drought, the residents of Niles Center began rebuilding almost immediately, constructing stores and other buildings more substantial than those which had been destroyed in the fire. The disaster also pointed out the village’s very obvious need for a central water supply. The project to fill that need got underway shortly thereafter and was completed within a few years.
 
 ## An Interesting Decade
+
 The decade following Niles Center’s great fire was a time of lively and decidedly mixed events. In 1911, the year that neighboring Tessville, later renamed Lincolnwood, was incorporated, the Niles Center Hotel, built by Henry Harms and at one time rented by Fritz Rose, was completely destroyed in another spectacular fire.
 
 In that same year, a farmer named Fred Guelzow, a member of the Cook County Truck Gardeners and Farmers Association, an organization created by George H. Klehm and others in 1902 and incorporated the following year, was murdered, his body found on Lincoln Avenue.
@@ -139,13 +145,14 @@ Despite the size of the project, work was completed by early 1925. The Chicago R
 
 In his book, North Shore: America’s Fastest Interurban, author William D. Middleton quoted some of the new railroad president’s words at the official dedication ceremony June 5, 1926. “The Skokie Valley Route of the North Shore Line represents an investment of $10,000,000 in the future of the comparatively undeveloped North Shore region lying to the west of the territory now served by our Shore Line Route. We have made this big investment secure in our confidence that this region is destined to become one of Chicago’s most beautiful and desirable residential districts. We have every reason to believe that our confidence is not misplaced. “
 
-![A moustache cup used by an early resident, from the Skokie Historical Society collection](link to image)
+![A moustache cup used by an early resident, from the Skokie Historical Society collection]({{ site.baseurl }}/assets/img/2002008006.jpg)
 *A moustache cup used by an early resident, from the Skokie Historical Society collection*
 
-![A view inside Fred Schoening's blacksmith shop about 1926.  The building itself still stands at 7880 Lincoln Avenue.](link to image)
+![A view inside Fred Schoening's blacksmith shop about 1926.  The building itself still stands at 7880 Lincoln Avenue.]({{ site.baseurl }}/assets/img/1983026001.jpg)
 *A view inside Fred Schoening's blacksmith shop about 1926.  The building itself still stands at 7880 Lincoln Avenue.*
 
 ## Real Estate Boom
+
 Months before the first trains from Chicago ran on the elevated tracks, Samuel Meyer, owner of a general store on Lincoln Avenue and the oldest lifetime resident of the village, reported: “The ‘L’ extension has already changed everything . . . I expect (my) store with its 200 feet of frontage on Lincoln Avenue is worth $50,000 or $60,000 today. When it gets up to $1,000 a foot I think I’ll sell it. But I’ll never leave Niles Center…
 
 “There isn’t any trade any more in the store,” Meyer continued, “but the increase in the value of the ground under it more than makes up for that. There is no trade because the subdividers bought up all the farms and our trade was with the farmers.”
@@ -157,6 +164,7 @@ Niles Center State Bank President Willard C. Galitz told a story about a corner 
 Throughout most of the 1920s, tales like this multiplied all over Niles Center and in the areas around it. With real estate values skyrocketing, many towns in northern Cook County cast covetous eyes at the unincorporated regions around them.
 
 ## Niles Center Expands
+
 In 1922, despite the early years of the Niles Center real estate boom then underway, the boundaries of the village had remained unchanged for nearly 34 years. During the next four years, however, the incorporated area of the village would be increased to more than 10 times its original size. This expansion was accomplished through a number of annexations, a legal process formalized in an Illinois state law of July 1, 1872.
 
 The law basically provided for the annexation of unincorporated land by a petition signed by a majority of the land owners and voters of the land in question, followed by a formal referendum.
@@ -167,19 +175,20 @@ Two more sizable parcels of land were added in another annexation on January 29,
 
 Land extending a substantial portion of the village’s northern boundary to Central Avenue was annexed on January 8, 1926. Smaller annexations were made in 1928 and 1930, by which time the village assumed the general shape it has today. There were, however, a number of minor changes over the years, involving annexations, disannexations and even reannexations. A typewritten manuscript detailing all of them, entitled “The Geographical Growth of Skokie, Illinois,” by Joseph C. Beaver, is available either at the Skokie Public Library or from the Skokie Historical Society.
 
-![Local doughboy saluting Ollie Dotzhauer.](link to image)
+![Local doughboy saluting Ollie Dotzhauer.]({{ site.baseurl }}/assets/img/1979001038.jpg)
 *Local doughboy saluting Ollie Dotzhauer.*
 
-![A patriotic gathering at the southeast corner of Lincoln and Oakton in 1918 held under the auspices of the village's Women's Patriotic Service League.](link to image)
+![A patriotic gathering at the southeast corner of Lincoln and Oakton in 1918 held under the auspices of the village's Women's Patriotic Service League.]({{ site.baseurl }}/assets/img/1980003001.jpg)
 *A patriotic gathering at the southeast corner of Lincoln and Oakton in 1918 held under the auspices of the village's Women's Patriotic Service League*
 
-![A steam shovel dredges out the channel for the MSD Sanitary Canal.](link to image)
+![A steam shovel dredges out the channel for the MSD Sanitary Canal.]({{ site.baseurl }}/assets/img/1985032005.jpg)
 *A steam shovel dredges out the channel for the MSD Sanitary Canal.*
 
-![Niles Center area for sale](link to image)
+![Niles Center area for sale]({{ site.baseurl }}/assets/img/74b.jpg)
 *Niles Center area for sale*
 
 ## The Boom Goes On
+
 Since 1919, the Volstead Act has limited the amount of alcohol in beverages sold in America to a sober one-half of one percent of total volume. It must have strained the credulity of local police to believe that alcohol remained under that legal limit in the many speakeasies that flourished in the Niles Center area during the Prohibition Era. Americans by the millions danced the Charleston, listened to jazz, and sipped bootlegged booze and many members of the fast-growing population of Niles Center obviously enjoyed the spirit and spirits of the times along with them.
 
 Besides being the age of flappers and bootleggers, the Roaring 20s carried with it a minor population explosion in Niles Center. In some individual years during the decade, the population of the village increased more than it had during its first four decades. The population of Niles Center in 1920 was 763. Ten years later, it had grown to 5,007.
@@ -203,6 +212,7 @@ As the end of the decade neared, there seemed little to stand in the way of the 
 >In the 25 months from December 1923 to January 1926, the incorporated area of Niles Center increased from less than one square mile to more than 10 square miles. In that short time, Niles Center earned the distinction of becoming the largest area in the United States under the village form of government, establishing Skokie's later claim as "The World's Largest Village." The reason for the phenomenal growth was the arrival of the elevated tracks from Chicago, which precipitated the area's sudden real estate boom.
 
 ## The Niles Center Crash
+
 The effects of the stock market crash of 1929 and the international depression that followed it were felt in Niles Center for decades, even after it had been renamed Skokie in 1940. Virtually all construction in the village stopped in the earliest months of the Depression. Seven years later, when the nation and the village were still suffering from the economic collapse, Mrs. Bertha Rosche came to Niles Center to begin directing the village library.
 
 “Even a stranger could read in the very pavements the story of boom and bust,” she wrote. “There lay the streets, crisscrossing the wide-open prairie through neat rectangles — with grass growing up through the cracked asphalt! The curbs and sewers and walks were in, but the streets were silent. Over the empty prairie, with views of a mile in any direction, here and there rose a lone apartment house. It was customary to walk in the streets since there was no traffic, for the sidewalks were heaved by the frost and the broken squares of cement tilted crazily…
@@ -233,7 +243,7 @@ Although the story of the “clerical error” has often been retold, many area 
 
 Like most of the rest of America, Niles Center, however, fully recovered from the Depression during the years of the war economy of the 1940s. Those who lived through it, and even their children, had been severely affected by the difficult times. But, perhaps not surprisingly, some of the most lasting institutions in the village had their roots implanted in the era of America’s Great Depression.
 
-![Auto Vehicle Tag](link to image)
+![Auto Vehicle Tag]({{ site.baseurl }}/assets/img/2002008007.jpg)
 *Auto Vehicle Tag*
 
 
@@ -244,13 +254,14 @@ Like most of the rest of America, Niles Center, however, fully recovered from th
 >Bronze tablets on both sides of the main entrance provide the names of builders, town government and civic leaders and other historic information. The building was remodeled extensively during the 1950s, and the southern section and the garden entry were added in 1980.
 
 ## Depression Era Progress
-Many of the improvements in and around Niles Center during the 1930's were made by federal and local governments anxious to create work for restless and desperate armies of unemployed people. One of the earliest benefits of depression-era politics was home delivery began during the early months of the Depression. 
+
+Many of the improvements in and around Niles Center during the 1930's were made by federal and local governments anxious to create work for restless and desperate armies of unemployed people. One of the earliest benefits of depression-era politics was home delivery began during the early months of the Depression.
 
 "House to house delivery of mail will start April 1" The News announced in it's front-page story of January 31, 1930. "Two men, one on foot and one with an automobile or truck, will be Niles Center's first postmen. One delivery each day, six days a weeks is the present schedule, Postmaster (Herman) Meyer said...Niles Center, will get it's mail from the Evanston office, beginning tomorrow. In years past the mail has been brought to Niles Center from Morton Grove by Postmaster Charles Kindt, who is to retire after today," the article went on to report.
 
 House-to-house mail delivery was not the only benefit to area residents of the federal government's efforts to fight unemployment caused by the Depression. In 1933, President Franklin D. Roosevelt included the creation of the Skokie lagoons in the reforestation projects. "Drainage of the Skokie marsh region, which will do much remedy flood and health problems in this section, is expected to start within the next few days..." the Niles Center Press reported on June 23, 1933. "Tools, trucks and necessary supplies will be furnished by the government when the large crops of laborers and supervisors are set to work. It is estimated that nearly 1,000 men will be encamped near here when the project gets underway."
 
-The familiar Skokie lagoons are located well north of the town that now bears the same name, just as much of the Skokie Marsh was well always north of Niles Center. The lagoons can be found just east of the Edens Expressway, extending roughly from Willow Road, northward to the Lake County line. Like the earlier efforts of Henry Harms and the later effects of the Deep Tunnel Project, the lagoons did much to retrieve the land from swamps and spring floods and make it liveable year-round for area residents.
+The familiar Skokie lagoons are located well north of the town that now bears the same name, just as much of the Skokie Marsh was well always north of Niles Center. The lagoons can be found just east of the Edens Expressway, extending roughly from Willow Road, northward to the Lake County line. Like the earlier efforts of Henry Harms and the later effects of the Deep Tunnel Project, the lagoons did much to retrieve the land from swamps and spring floods and make it livable year-round for area residents.
 
 Various branches of county and local administrations were, like the federal government, particularly active during the Depression years. Lincoln Avenue, difficult to maintain since its earliest days, became an Illinois state highway in 1932. The Niles Center Board of Health was established on February 17, 1931 but its first full-time employee, Helen Lies, R.N. was not appointed until nearly five years later. The Park District began acquiring land for numerous parks during this period, including land which later became Central Park in 1931, Lorel Park in 1937 and Lee-Wright Park in 1939.
 
@@ -258,12 +269,12 @@ Perhaps the most important contribution of both local and federal governments wa
 
 The Niles Township High School District (Number 219) was formally established in 1936. One of the original school board members, Armond King, helped to acquire the land from the Cook County Forest Preserve district for the sire of a new high school building. Built for less than a million dollars, and funded by Franklin D. Roosevelt's Public Works Administration, Niles Township High School (now Niles East) was dedicated on April 16, 1939.
 
-Perhaps the greatest testament to the strength of area residents during the years of the Depression were the number of institutions in the private sector that began during the 1930s. Four new churches were organized during the first two years of the Depression: the Presbyterian Community Church, the First Church of Christ Scientist, and the Central Church (Methodist Episcopal) and the Trinity Church in 1931. 
+Perhaps the greatest testament to the strength of area residents during the years of the Depression were the number of institutions in the private sector that began during the 1930s. Four new churches were organized during the first two years of the Depression: the Presbyterian Community Church, the First Church of Christ Scientist, and the Central Church (Methodist Episcopal) and the Trinity Church in 1931.
 
 In that same year, Reverend Frederick Detzer died after 50 years of service to St. Paul's Lutheran Church. When he succeeded by Reverend Otto Arndt, English was used extensively for that first time in services. One of the last bastions of German-speaking Niles Township has passed.
 
-As one of the better distractions from the troubled times, motion picture houses managed to hold their own during the Depression, in America in general and Niles Center in particular. Talking movies, shown for the first time in thr Niles Center Theater in September 1930, became the rule by the summer of 1933.
+As one of the better distractions from the troubled times, motion picture houses managed to hold their own during the Depression, in America in general and Niles Center in particular. Talking movies, shown for the first time in the Niles Center Theater in September 1930, became the rule by the summer of 1933.
 
-Another remarkable legacy of the Depression is the number of civic organizations, some still in existence, that began during the years of economic collapse. Among them are the Boy Scouts, organized in 1929, and the Girl Scouts in 1930, the Cosmos Club, a women's group that was organized in 1930 and started the village's first public library the same year; the Community Choral Society; Niles Center Post 320 of the American Legion in 1931; the Niles Center Civic Orchestra in 1934; the American Legion Auxillary; and the SUB DEB Club in 1935. The Niles Township Unit of the American Red Cross and the East Prairie School PTA were formed in 1937, and the Niles Center Post of the Veterans of Foreign Wats and the Niles Center Rotary Club in 1939. 
+Another remarkable legacy of the Depression is the number of civic organizations, some still in existence, that began during the years of economic collapse. Among them are the Boy Scouts, organized in 1929, and the Girl Scouts in 1930, the Cosmos Club, a women's group that was organized in 1930 and started the village's first public library the same year; the Community Choral Society; Niles Center Post 320 of the American Legion in 1931; the Niles Center Civic Orchestra in 1934; the American Legion Auxillary; and the SUB DEB Club in 1935. The Niles Township Unit of the American Red Cross and the East Prairie School PTA were formed in 1937, and the Niles Center Post of the Veterans of Foreign Wats and the Niles Center Rotary Club in 1939.
 
 The ever-changing face of Niles Center was now ready to face the 1940s which would introduce an astonishing era of village growth and maturity... and even a name-change.

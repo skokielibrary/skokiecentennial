@@ -31,13 +31,13 @@ In the 1980s, a new migration to Skokie took place, with large numbers of Asian 
 
 In addition to the considerable resources of the public elementary school system, Skokie is also served by a number of private parochial schools. The Arie Crown Hebrew School, Hillel Torah North Suburban Day School, and Solomon Schector Day School operate for children of the Jewish faith. St. Paul’s Lutheran Church maintains a Protestant elementary school. And each of the village’s three Catholic churches, St. Peter’s, St. Lambert’s and St. Joan of Arc, offer full eight-year elementary programs.
 
-![Students are hard at work in this 1901 photo inside the Niles Center Public School](link to image)
+![Students are hard at work in this 1901 photo inside the Niles Center Public School]({{ site.baseurl }}/assets/img/)
 *Students are hard at work in this 1901 photo inside the Niles Center Public School*
 
-![The old Fairview School, the village's first, which was built in 1858 on the southwest corner of Howard Street and Niles Center Road](link to image)
+![The old Fairview School, the village's first, which was built in 1858 on the southwest corner of Howard Street and Niles Center Road]({{ site.baseurl }}/assets/img/)
 *The old Fairview School, the village's first, which was built in 1858 on the southwest corner of Howard Street and Niles Center Road*
 
-![The School Garden Club formed by Alma Klehm (third from left) about 1910](link to image)
+![The School Garden Club formed by Alma Klehm (third from left) about 1910]({{ site.baseurl }}/assets/img/)
 *The School Garden Club formed by Alma Klehm (third from left) about 1910*
 
 ## High Schools
@@ -68,7 +68,7 @@ The Skokie campus provides courses for college credit in a dozen different gener
 
 One of the most extensive programs offered by Oakton Community College is the Maine-Oakton-Niles-Northfield Adult and Continuing Education Program (MONNACEP). Cooperating with area high school districts and coordinating their efforts, the program makes available nearly 8O0~separate courses, ranging from assertiveness training to word processing to Yoga. Courses are taught in area high schools, parks, and other sites scattered throughout the district, some in Skokie.
 
-![Oakton College East on Lincoln Avenue, an extension campus of Oakton Community College, provides two-year college-level education for residents of Skokie and nearby communities](link to image)
+![Oakton College East on Lincoln Avenue, an extension campus of Oakton Community College, provides two-year college-level education for residents of Skokie and nearby communities]({{ site.baseurl }}/assets/img/)
 *Oakton College East on Lincoln Avenue, an extension campus of Oakton Community College, provides two-year college-level education for residents of Skokie and nearby communities*
 
 ## The Hebrew Theological College
@@ -87,5 +87,5 @@ Under the direction of Rabbi Don Well, who was appointed president in 1981, the 
 ## Skokie's Wide-Ranging Educational Opportunities
 An unusually wide array of educational resources are available to nearly every resident of Skokie. In addition to an outstanding public school system extending from kindergarten through junior college, the village has parochial elementary schools representing each of the three major faiths: Protestant, Catholic, and Jewish. There are also a number of special schools, including Hebrew Theological College, Brisk Rabbinical School, Chinese Language School, and Orchard Village, a residential school for mentally handicapped young adults. The main campus of Northwestern University, a leading institution of higher learning, is located in Evanston just a few miles to the east. And all of the resources of one of the world’s great cities, Chicago, are located at Skokie’s doorstep.
 
-![School Districts 68, 69 and 72 are principally in Skokie but also extend beyond the western boundaries of the village. Much of District 65 is in Evanston, including only those portions of Skokie east of Crawford Avenue and north of Greenleaf Street. (Fairview North closed in June 1988.)](link to image)
+![School Districts 68, 69 and 72 are principally in Skokie but also extend beyond the western boundaries of the village. Much of District 65 is in Evanston, including only those portions of Skokie east of Crawford Avenue and north of Greenleaf Street. (Fairview North closed in June 1988.)]({{ site.baseurl }}/assets/img/)
 *School Districts 68, 69 and 72 are principally in Skokie but also extend beyond the western boundaries of the village. Much of District 65 is in Evanston, including only those portions of Skokie east of Crawford Avenue and north of Greenleaf Street. (Fairview North closed in June 1988.)*

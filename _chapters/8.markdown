@@ -64,7 +64,7 @@ For many years, extending well into the second half of the twentieth century, St
 
 One of the unique facets of St. Paul’s, Skokie’s third oldest church, has been the longevity of its pastors. The church’s first minister, the Reverend Frederick Detzer, served for half a century, from 1881 to 1931. He was succeeded by the Reverend Otto F. Arndt, who served as pastor of St. Paul’s for the next three decades, until 1962. It was under Reverend Arndt’s direction that construction of the new grade school building at St. Paul’s was completed and opened in 1955.
 
-![The original Protestant St. Paul's Lutheran Church, which was dedicated in June 1881 and replaced in 1910 by the present church which is at 7870 Niles Center Road](link to image)
+![The original Protestant St. Paul's Lutheran Church, which was dedicated in June 1881 and replaced in 1910 by the present church which is at 7870 Niles Center Road]({{ site.baseurl }}/assets/img/)
 *The original Protestant St. Paul's Lutheran Church, which was dedicated in June 1881 and replaced in 1910 by the present church which is at 7870 Niles Center Road*
 
 ## Multiplying Denominations
@@ -149,7 +149,7 @@ Today’s Crawford Avenue Baptist Church was born in the 1950s, when a small con
 
 North Shore Assembly of God, 9779 Gross Point Road, is the village’s youngest Christian Church. It was founded in June 1964.
 
-![St Joan of Arc Church at 9248 Lawndale Avenue](link to image)
+![St Joan of Arc Church at 9248 Lawndale Avenue]({{ site.baseurl }}/assets/img/)
 *St Joan of Arc Church at 9248 Lawndale Avenue*
 
 ## Jewish Synagogues

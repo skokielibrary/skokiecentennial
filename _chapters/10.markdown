@@ -12,7 +12,7 @@ The history of community involvement predates the incorporation of Niles Centre.
 
 Under the same guiding principles, the influence of private leadership and cooperation in the development of contemporary local institutions and in common purpose became particularly evident in the 1950s. And today it is one of Skokie’s most tangible and admirable assets.
 
-![Skokie Spirit stained glass window at the Village Hall](link to image)
+![Skokie Spirit stained glass window at the Village Hall]({{ site.baseurl }}/assets/img/)
 *Skokie Spirit stained glass window at the Village Hall*
 
 ## Village Firsts
@@ -67,7 +67,7 @@ With 400 volunteer workers pitching in, the job was accomplished. One of the mos
 
 When the Arttain pulled out of Skokie, about 8,000 school children and many adults had passed through it, making the festival one of the most memorable experiences in recent history.
 
-![The visit of the Artrain in 1985 proved to be one of the most memorable examples of Skokie Spirit in the village's history.](link to image)
+![The visit of the Artrain in 1985 proved to be one of the most memorable examples of Skokie Spirit in the village's history.]({{ site.baseurl }}/assets/img/)
 *The visit of the Artrain in 1985 proved to be one of the most memorable examples of Skokie Spirit in the village's history.*
 
 ## Centre East for the Arts
@@ -83,16 +83,16 @@ Despite the star attractions and major productions, Centre East operates with th
 
 “What began as part of a community campaign to save the buildings of its former high school has today become a source of community pride,” a Centre East press release proudly proclaims, “...Centre East, a total center for the performing arts, a cultural resource for not only Skokie and Niles Township but the entire Chicago metropolitan area.
 
-![Centre East has been providing a stage for the performing arts since 1980](link to image)
+![Centre East has been providing a stage for the performing arts since 1980]({{ site.baseurl }}/assets/img/)
 *Centre East has been providing a stage for the performing arts since 1980*
 
-![Among the many famous performers who have appeared is jazz pianist/singer Ray Charles, caricatured at the left](link to image)
+![Among the many famous performers who have appeared is jazz pianist/singer Ray Charles, caricatured at the left]({{ site.baseurl }}/assets/img/)
 *Among the many famous performers who have appeared is jazz pianist/singer Ray Charles, caricatured at the left*
 
 ## Other Village Organizations
 Each of the nearly 150 organizations active in Skokie has a story worth telling. Unfortunately, space does not permit even a brief mention of all of them. Some of the more historic or major groups are described in the Centennial History of Skokie.
 
-![The Luxembourg Brotherhood of America's Section15, founded in Niles Centre in 1905, is the oldest civic or fraternal organization still in existence in Skokie.  Shown here are officers of the section in 1938, left to right:  seated, Nick Kalmes, Pat Seul, Martin "Scotty" Krier, Paul Hermes, Joseph Freres; standing, Anton Krier, Jr., Anton "Tony" Seul, Val Krier, Bill Biegert, Sr., Adam Hohs.](link to image)
+![The Luxembourg Brotherhood of America's Section15, founded in Niles Centre in 1905, is the oldest civic or fraternal organization still in existence in Skokie.  Shown here are officers of the section in 1938, left to right:  seated, Nick Kalmes, Pat Seul, Martin "Scotty" Krier, Paul Hermes, Joseph Freres; standing, Anton Krier, Jr., Anton "Tony" Seul, Val Krier, Bill Biegert, Sr., Adam Hohs.]({{ site.baseurl }}/assets/img/)
 *The Luxembourg Brotherhood of America's Section15, founded in Niles Centre in 1905, is the oldest civic or fraternal organization still in existence in Skokie.  Shown here are officers of the section in 1938, left to right:  seated, Nick Kalmes, Pat Seul, Martin "Scotty" Krier, Paul Hermes, Joseph Freres; standing, Anton Krier, Jr., Anton "Tony" Seul, Val Krier, Bill Biegert, Sr., Adam Hohs.*
 
 ## Mayer Kaplan Jewish Community Center
@@ -121,10 +121,10 @@ By 1987, post membership had increased to 566. A number of changes to the appear
 
 Perhaps the best remembered triumphs of the post occurred in 1955, 1956, and 1957, when the “Sko­kie Indians,” the post’s drum and bugle corns, won three consecutive national championships. Judge Harvey Schwartz, long-time corporation counsel for the village, was a bugler on those championship teams.
 
-![Two past commanders of Skokie's American Legion Post 320:  Herman Giannini (left) and Ray Haben](link to image)
+![Two past commanders of Skokie's American Legion Post 320:  Herman Giannini (left) and Ray Haben]({{ site.baseurl }}/assets/img/)
 *Two past commanders of Skokie's American Legion Post 320:  Herman Giannini (left) and Ray Haben*
 
-![Many Skokians served in the armed forces during World War II](link to image)
+![Many Skokians served in the armed forces during World War II]({{ site.baseurl }}/assets/img/)
 *Many Skokians served in the armed forces during World War II*
 
 ## Skokie Rotary Club

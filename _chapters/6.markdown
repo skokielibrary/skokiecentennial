@@ -47,16 +47,17 @@ The defeat was only a temporary setback for the Caucus Party. Party president Do
 
 In 1987, after a record 22 consecutive years of service, Mayor Albert J. Smith announced that he would retire at year’s end due to poor health. Jacqueline Gorell, a village trustee for 10 years, was appointed by Skokie’s Board of Trustees to complete the two remaining years of Mayor Smith’s term of office. She also gained the distinction of becoming Skokie’s first female Mayor.
 
-![Bernard "Ben" Marsh, Village Manager (1959-66) and reformer, posing here with an unidentified boy scout, vitalized Skokie's village-manager form of government during his tenure.](link to image)
+![Bernard "Ben" Marsh, Village Manager (1959-66) and reformer, posing here with an unidentified boy scout, vitalized Skokie's village-manager form of government during his tenure.]({{ site.baseurl }}/assets/img/1989012001.jpg)
 *Bernard "Ben" Marsh, Village Manager (1959-66) and reformer, posing here with an unidentified boy scout, vitalized Skokie's village-manager form of government during his tenure.*
 
-![The old Skokie Fire Department](link to image)
+![The old Skokie Fire Department]({{ site.baseurl }}/assets/img/1979001001.jpg)
 *The old Skokie Fire Department*
 
-![A modern ladder truck](link to image)
+![A modern ladder truck]({{ site.baseurl }}/assets/img/108.jpg)
 *A modern ladder truck*
 
 ## Village Government
+
 Skokie’s village government is just one of several autonomous public agencies that serve area residents. In addition to electing Skokie government officials, villagers also select separate boards to oversee the library, the park district, the school districts, and they participate in Niles Township, Cook County, Metropolitan Sanitary District, and State of Illinois elections and referenda as well.
 
 As in all formal communities in Illinois, Skokie government derives its authority from Article VII, the Local Government Article, of the 1970 Illinois State Constitution and from various statutes of the state legislature.
@@ -66,6 +67,7 @@ In Illinois, all municipalities with populations of more than 25,000 operate as 
 *Editor's note: The Code of Ordinances is now available online via the Village of Skokie website.
 
 ## The Mayor
+
 The primary functions of the Mayor are to preside over meetings of the Board of Trustees and to appoint, with the approval of the Board, the Village Manager, the Corporation Counsel - and staff, and various boards and commissions, which in 1987 numbered 16.
 
 The mayor can vote on all matters before the Board, and must vote in order to break a tie. The Mayor can also veto ordinances, resolutions, or motions passed by the trustees, in which case a two- thirds majority vote by all the Board members is required to override it.
@@ -90,309 +92,202 @@ Traffic Safety Commission (25)
 Zoning Board of Appeals (7)
 
 ## The Mayors of Skokie
-Adam Harrer                               1888-1890 
-John W. Brown                          1890-1895 
-Peter Blaumeuser III                  1895-1897 
-Dr. George Sintzel                      1897-1910 
-George H. Klehm                        1910-1923 
-John E. Brown                            1923-1933 
-George Blaumeuser                    1933-1945 
-John W. Wuerth                        1945-1947
-Arthur Simmons                         1947-1949 
-George Wilson                           1949-1957 
-Allan Weissburg                        1957 
-Ambrose Reiter                          1957-1961 
-Myron Greisdorf                        1961-1965 
-Albert J. Smith                            1965-1988 
-Jacqueline Gorell                        1988-1999
+
+| Adam Harrer | 1888-1890 |
+| John W. Brown | 1890-1895 |
+| Peter Blaumeuser III | 1895-1897 |
+| Dr. George Sintzel | 1897-1910 |
+| George H. Klehm  | 1910-1923 |
+| John E. Brown  | 1923-1933 |
+| George Blaumeuser | 1933-1945 |
+| John W. Wuerth | 1945-1947 |
+| Arthur Simmons | 1947-1949 |
+| George Wilson | 1949-1957 |
+| Allan Weissburg | 1957 |
+| Ambrose Reiter | 1957-1961 |
+| Myron Greisdorf | 1961-1965 |
+| Albert J. Smith  | 1965-1988 |
+| Jacqueline Gorell | 1988-1999 |
 
 By Illinois state law, the Mayor also serves as the village liquor commissioner, licensing and regulating all retail establishments selling alcoholic beverages. As the legal head of the village, the Mayor acts as a legislative liaison between Skokie and the state and federal governments, and represents the village in a variety of civic functions.
 
-![Adam Harrer (1888-1890)](link to image)
+![Adam Harrer 1888-1890]({{ site.baseurl }}/assets/img/112a.jpg)
 *Adam Harrer (1888-1890)*
 
-![John W. Brown 1890-1895](link to image)
+![John W. Brown 1890-1895]({{ site.baseurl }}/assets/img/112b.jpg)
 *John W. Brown 1890-1895*
 
-![Peter Blaumeuser III 1895-1897](link to image)
+![Peter Blaumeuser III 1895-1897]({{ site.baseurl }}/assets/img/112c.jpg)
 *Peter Blaumeuser III 1895-1897*
 
-![Dr. George Sintzel 1897-1910](link to image)
+![Dr. George Sintzel 1897-1910]({{ site.baseurl }}/assets/img/112d.jpg)
 *Dr. George Sintzel 1897-1910*
 
-![George H. Klehm 1910-1923](link to image)
+![George H. Klehm 1910-1923]({{ site.baseurl }}/assets/img/112e.jpg)
 *George H. Klehm 1910-1923*
 
-![John E. Brown 1923-1933](link to image)
+![John E. Brown 1923-1933]({{ site.baseurl }}/assets/img/112f.jpg)
 *John E. Brown 1923-1933*
 
-![George Blaumeuser 1933-1945](link to image)
+![George Blaumeuser 1933-1945]({{ site.baseurl }}/assets/img/113a.jpg)
 *George Blaumeuser 1933-1945*
 
-![John W. Wuerth 1945-1947](link to image)
+![John W. Wuerth 1945-1947]({{ site.baseurl }}/assets/img/113b.jpg)
 *John W. Wuerth 1945-1947*
 
-![Arthur Simmons 1947-1949](link to image)
+![Arthur Simmons 1947-1949]({{ site.baseurl }}/assets/img/113c.jpg)
 *Arthur Simmons 1947-1949*
 
-![George Wilson 1949-1957](link to image)
+![George Wilson 1949-1957]({{ site.baseurl }}/assets/img/113d.jpg)
 *George Wilson 1949-1957*
 
-![Allan Weissburg 1957](link to image)
+![Allan Weissburg 1957]({{ site.baseurl }}/assets/img/113e.jpg)
 *Allan Weissburg 1957*
 
-![Ambrose Reiter 1957-1961](link to image)
+![Ambrose Reiter 1957-1961]({{ site.baseurl }}/assets/img/113f.jpg)
 *Ambrose Reiter 1957-1961*
 
-![Myron Greisdorf 1961-1965](link to image)
+![Myron Greisdorf 1961-1965]({{ site.baseurl }}/assets/img/113g.jpg)
 *Myron Greisdorf 1961-1965*
 
-![Albert J. Smith 1965-1988](link to image)
+![Albert J. Smith 1965-1988]({{ site.baseurl }}/assets/img/113h.jpg)
 *Albert J. Smith 1965-1988*
 
-![Jacqueline Gorell 1988-1999](link to image)
+![Jacqueline Gorell 1988-1999]({{ site.baseurl }}/assets/img/113i.jpg)
 *Jacqueline Gorell 1988-1999*
 
 ## The Board of Trustees
+
 The six trustees, working with the Mayor, serve as the legislative and policy-making body of the village. All ordinances must be passed by majority vote of the Board. The Board is also responsible for adopting a village budget and undertaking an annual audit, confirming all appointments made by the Mayor, and approving all legal contracts to which the village of Skokie is a party, as well as the payments which may result from them. Although the powers of the Board of Trustees as a whole are broad, individual trustees enjoy no more power or prerogatives than any other citizen of the village.
 
 Meetings of the Board of Trustees are open to the public and are held regularly in the council chambers of the Village Hall twice a month on Monday nights. Time is allotted at the end of each board meeting for the offering of comments by area citizens, but the Mayor may also recognize a speaker who wishes to comment on a matter before the Board while a meeting is in progress.
 
 ## 100 Years of Trustees
+
 Since Skokie was incorporated back in 1888, the following citizens have served the village as members of the Board of Trustees.
 
-Christian Baumann            1888, 1893-1894
-
-Michael Harrer, Sr.           1888-1889
-
-Peter Blaumeuser, Jr.        1888-1889
-
-Ivan Paroubek                  1888-1889
-
-Fritz Rose                         1888-1890
-
-Fred Stielow                     1888-1892
-
-Ernst Galitz                       1890-1893
-
-Fred Scheuber                  1890-1891
-
-Edward Blaumeuser          1890-1891
-
-Dr. George Sintzel             1891-1894
-
-M.M. Gabel                      1892-1893
-
-Adam Harrer                    1893-1894, 1898-1899
-
-Samuel Meyer                   1894-1897
-
-George H. Klehm              1894-1897
-
-Herman Wendt                 1894-1895
-
-Louis C. Hasse                 1895-1896
-
-John W. Brown                 1895-1899
-
-Henry Heinz                      1896-1897
-
-Edward Blaumeuser          1897-1898
-
-Peter Baumhardt               1897-1903
-
-John Blaumeuser               1898-1899
-
-Adam Barg                       1898-1899
-
-Henry Loutsch                  1899-1901
-
-Chris Hachmeister             1900
-
-Eberhardt Blaumeuser       1900-1907
-
-Ivan Paroubek                  1900-1901
-
-George Lohrmann             1900-1901
-
-George Landeck               1901-1906
-
-Jacob Meyer                     1902-1903
-
-George Wolf                     1902-1906
-
-William Galitz                    1902-1905, 1910-1914
-
-Michael Baumann              1903-1905
-
-Peter Heinz                       1906-1909
-
-Samuel Meyer                   1906-1908, 1914-1925
-
-Andrew Schmitz                1906-1909
-
-Fritz Rose                         1907-1908
-
-Jacob Baumhardt              1907-1908
-
-M.S. Wagner                    1908-1913
-
-John W. Brown                 1909-1920
-
-Richard Kruse                   1909-1920
-
-Edward Trausch                1909
-
-Albert Lies                        1910-1913
-
-Robert Hoffman                1910-1929
-
-Christian Blaumeuser         1914-1921
-
-John P. Even                     1921-1922
-
-Henry Heinz                      1921-1922
-
-William Schnur                  1922-1925
-
-William Teufert                  1923
-
-Henry Vogt                       1923-1932
-
-Peter Conrad                    1924-1932
-
-William Stielow                 1926-1931
-
-Edward Harms                  1926-1932
-
-Louis Faber                      1930-1931
-
-Louis Falzer                      1930-1931
-
-Robert Pollock                  1931-1932
-
-Ambrose Brod                  1932-1944
-
-Ernst Burkitt                      1933-1938
-
-John Desmond                  1932-1934
-
-Ted J. Heinz                      1933
-
-Thomas S. Rae                 1933-1944
-
-Willard C. Galitz               1933-1942
-
-Russell Tucker                  1934-1944
-
-John W. Wuerth                1935-1944
-
-Peter Conrad                    1939-1946
-
-William Permer                 1943-1946
-
-Henry Hoffman                 1945-1946
-
-Carl Bennett                      1945-1948
-
-Jeffrey Waters                   1945-1947, 1949-1950
-
-Fred Kloman                    1945-1946
-
-Arthur Simmons                1947
-
-Alan Truesdell                   1947-1950
-
-John Flynn                        1947-1948
-
-Robert S. Throop              1947-1948
-
-Armin Mayer                    1947-1948
-
-John O’Shaughnessy         1948
-
-Robert E. Graf                  1949-1952
-
-Ambrose Reiter                 1949-1957
-
-William A. Krewer            1949-1960
-
-Miles T. Babb                   1949-1960
-
-Fred W. Wakefield           1951-1958
-
-Sylvester J. Reese             1951-1958
-
-Francis P. Seul                  1953-1955
-
-Raymond V. Krier            1956-1960
-
-Jum W. Smith                   1957-1958
-
-Albert J. Smith                  1959-1960
-
-G. Ray Jackson                 1959-1960
-
-William Siegel                   1959-1960
-
-Samuel S. Berger              1961-1964
-
-Anthony P. Czarnecki, Jr.  1961-1964
-
-Richard C. Lindberg          1961-1964
-
-John W. Mock                  1961-1964
-
-Francis O. Mudd              1961-1964
-
-John W. Wozniak             1961-1964
-
-John T. Banghart               1965-1968
-
-Calvin R. Sutker                1965-1969
-
-Herman Schmidt               1965-1969
-
-Bernard M. Kaplan           1965-1969
-
-Walter B. Flintrup             1965-1973
-
-Robert J. Morris               1965-1977
-
-Thomas J. McElligott         1965-1977
-
-John Pinkerman                 1968-1969
-
-Edward Fleischman           1969-1977
-
-Bernard Harrison              1969-1973
-
-Morris Topol                    1969-1981
-
-Don R. Copeland              1973-1977
-
-Frank G. McCabe            1973-
-
-Charles J. Conrad             1977-1984
-
-Jacqueline Gorell               1977-1988
-
-Manly R. Croft                  1977-
-
-William J. Elliott                1977-
-
-Robert S. Fritzshall            1981-
-
-George Van Dusen            1984-
-
-Betty A Petroski               1988-
+| Christian Baumann | 1888, 1893-1894 |
+| Michael Harrer, Sr. | 1888-1889 |
+| Peter Blaumeuser, Jr. | 1888-1889 |
+| Ivan Paroubek | 1888-1889 |
+| Fritz Rose | 1888-1890 |
+| Fred Stielow | 1888-1892 |
+| Ernst Galitz | 1890-1893 |
+| Fred Scheuber | 1890-1891 |
+| Edward Blaumeuser | 1890-1891 |
+| Dr. George Sintzel | 1891-1894 |
+| M.M. Gabel | 1892-1893 |
+| Adam Harrer | 1893-1894, 1898-1899 |
+| Samuel Meyer | 1894-1897 |
+| George H. Klehm | 1894-1897 |
+| Herman Wendt | 1894-1895 |
+| Louis C. Hasse | 1895-1896 |
+| John W. Brown | 1895-1899 |
+| Henry Heinz | 1896-1897 |
+| Edward Blaumeuser | 1897-1898 |
+| Peter Baumhardt | 1897-1903 |
+| John Blaumeuser | 1898-1899 |
+| Adam Barg | 1898-1899 |
+| Henry Loutsch | 1899-1901 |
+| Chris Hachmeister | 1900 |
+| Eberhardt Blaumeuser | 1900-1907 |
+| Ivan Paroubek | 1900-1901 |
+| George Lohrmann | 1900-1901 |
+| George Landeck | 1901-1906 |
+| Jacob Meyer | 1902-1903 |
+| George Wolf | 1902-1906 |
+| William Galitz | 1902-1905, 1910-1914 |
+| Michael Baumann | 1903-1905 |
+| Peter Heinz | 1906-1909 |
+| Samuel Meyer | 1906-1908, 1914-1925 |
+| Andrew Schmitz | 1906-1909 |
+| Fritz Rose | 1907-1908 |
+| Jacob Baumhardt | 1907-1908 |
+| M.S. Wagner | 1908-1913 |
+| John W. Brown | 1909-1920 |
+| Richard Kruse | 1909-1920 |
+| Edward Trausch | 1909 |
+| Albert Lies | 1910-1913 |
+| Robert Hoffman | 1910-1929 |
+| Christian Blaumeuser | 1914-1921 |
+| John P. Even | 1921-1922 |
+| Henry Heinz | 1921-1922 |
+| William Schnur | 1922-1925 |
+| William Teufert | 1923 |
+| Henry Vogt | 1923-1932 |
+| Peter Conrad | 1924-1932 |
+| William Stielow | 1926-1931 |
+| Edward Harms | 1926-1932 |
+| Louis Faber | 1930-1931 |
+| Louis Falzer | 1930-1931 |
+| Robert Pollock | 1931-1932 |
+| Ambrose Brod | 1932-1944 |
+| Ernst Burkitt | 1933-1938 |
+| John Desmond | 1932-1934 |
+| Ted J. Heinz | 1933 |
+| Thomas S. Rae | 1933-1944 |
+| Willard C. Galitz | 1933-1942 |
+| Russell Tucker | 1934-1944 |
+| John W. Wuerth | 1935-1944 |
+| Peter Conrad | 1939-1946 |
+| William Permer | 1943-1946 |
+| Henry Hoffman | 1945-1946 |
+| Carl Bennett | 1945-1948 |
+| Jeffrey Waters | 1945-1947, 1949-1950 |
+| Fred Kloman | 1945-1946 |
+| Arthur Simmons | 1947 |
+| Alan Truesdell | 1947-1950 |
+| John Flynn | 1947-1948 |
+| Robert S. Throop | 1947-1948 |
+| Armin Mayer | 1947-1948 |
+| John O’Shaughnessy | 1948 |
+| Robert E. Graf | 1949-1952 |
+| Ambrose Reiter | 1949-1957 |
+| William A. Krewer | 1949-1960 |
+| Miles T. Babb | 1949-1960 |
+| Fred W. Wakefield | 1951-1958 |
+| Sylvester J. Reese | 1951-1958 |
+| Francis P. Seul | 1953-1955 |
+| Raymond V. Krier | 1956-1960 |
+| Jum W. Smith | 1957-1958 |
+| Albert J. Smith | 1959-1960 |
+| G. Ray Jackson | 1959-1960 |
+| William Siegel | 1959-1960 |
+| Samuel S. Berger | 1961-1964 |
+| Anthony P. Czarnecki, Jr. | 1961-1964 |
+| Richard C. Lindberg | 1961-1964 |
+| John W. Mock | 1961-1964 |
+| Francis O. Mudd | 1961-1964 |
+| John W. Wozniak | 1961-1964 |
+| John T. Banghart | 1965-1968 |
+| Calvin R. Sutker | 1965-1969 |
+| Herman Schmidt | 1965-1969 |
+| Bernard M. Kaplan | 1965-1969 |
+| Walter B. Flintrup | 1965-1973 |
+| Robert J. Morris | 1965-1977 |
+| Thomas J. McElligott | 1965-1977 |
+| John Pinkerman | 1968-1969 |
+| Edward Fleischman | 1969-1977 |
+| Bernard Harrison | 1969-1973 |
+| Morris Topol | 1969-1981 |
+| Don R. Copeland | 1973-1977 |
+| Frank G. McCabe | 1973- |
+| Charles J. Conrad | 1977-1984 |
+| Jacqueline Gorell | 1977-1988 |
+| Manly R. Croft | 1977- |
+| William J. Elliott | 1977- |
+| Robert S. Fritzshall | 1981- |
+| George Van Dusen | 1984- |
+| Betty A Petroski | 1988- |
 
 ## The Village Clerk
+
 Maintaining legal records of the village and overseeing the conduct of village elections and referenda are the two major functions of the Village Clerk. The Clerk attends all meetings of the Board of Trustees and is responsible for keeping a full record of the proceedings. In addition, the Village Clerk makes arrangements for the safekeeping of legal documents, such as signed ordinances, resolutions, agreements, and contracts, to which the village of Skokie is a party.
 
 The Village Clerk also serves as a deputy registrar for the Clerk of Cook County. Citizens who are residents of Skokie can register to vote in all federal, state, county, and local elections by visiting the clerk’s office in Village Hall at least 30 days prior to an election.
 
 ## Village Clerks
+
 Frank Wagner                   1888-1890
 Peter Blaumeuser III         1890-1895
 John Paroubek                  1895-1898
@@ -409,6 +304,7 @@ William Siegel                   1961-1982
 Marlene Williams              1982-
 
 ## The Village Manager
+
 In the three decades since the position of Skokie Village Manager was created by referendum amid a storm of political in-fighting, the office has become one of the most valuable assets of the village government. The chief administrative officer of the village, the manager is employed by the Mayor and the Board of Trustees and serves on a full-time basis at their discretion. It is the manager’s responsibility to enforce all village ordinances, recommend policy alternatives to the Board, and prepare an annual budget for the Board’s approval.
 
 Because the Village Manager is an appointed position, the emphasis in the selection process is on professional training and experience, rather than appeal to the voting population. The manager is specifically prepared to evaluate effective methods for carrying out the policies of the Mayor and the Board of Trustees, for evaluating the progress of village programs, for providing a public information service, and for compiling the village budget and presenting it to the Mayor and the Board of Trustees for approval. The manager’s office is also responsible for the administration of federal and state grants.
@@ -418,21 +314,23 @@ The Village manager directs and coordinates the activities of all village depart
 The Village Manager also has responsibility for employing and dismissing the directors of village governmental departments and most other village employees. Members of the police and fire departments below the rank of chief are appointed by the Fire and Police Commission, as provided by state law. By custom, the Village Manager delegates the hiring of other village employees to the Personnel Division, itself a part of the Village Manager’s office. An Assistant Village Manager, who works with the manager and assumes the manager’s position during his or her absence, is also a part of the office.
 
 
-![The modern Skokie Central Dispatch in action.  A telecommunicator attends to the elaborately modern communications set-up which serves the police and fire departments.](link to image)
-*The modern Skokie Central Dispatch in action.  A telecommunicator attends to the elaborately modern communications set-up which serves the police and fire departments.
+![The modern Skokie Central Dispatch in action.  A telecommunicator attends to the elaborately modern communications set-up which serves the police and fire departments.]({{ site.baseurl }}/assets/img/2002009002.jpg)
+*The modern Skokie Central Dispatch in action.  A telecommunicator attends to the elaborately modern communications set-up which serves the police and fire departments.*
 
 ## Skokie's Village Managers
-Arthur Lowther                 1958
+
+Arthur Lowther              1958
 Henry Weber (acting)        1958-1959
-Bernard J. Marsh              1959-1966
-Gordon E. Thorn               1966-1969
-William N. Brady (acting)  1969-1970
-John M. Matzer, Jr.           1970-1978
+Bernard J. Marsh            1959-1966
+Gordon E. Thorn             1966-1969
+William N. Brady (acting)   1969-1970
+John M. Matzer, Jr.         1970-1978
 Bernard J. Hohs (acting)    1978-1979
-Robert J. Eppley               1979-1987 
+Robert J. Eppley            1979-1987
 Albert J. Rigoni                 1987-
 
 ## The Legal Department
+
 The staff attorneys of the Legal Department are appointed by and are responsible to the Mayor and the Board of Trustees. The department is composed of a Corporation Counsel, and the village prosecutors. The department acts as a legal advisor to the Mayor, the Board of Trustees, the Village Manager, and all village departments, boards, and commissions.
 
 The lawyers in the Legal Department represent the village in litigation by or against the village. They also serve as prosecutors for violations of village laws.
@@ -440,19 +338,25 @@ The lawyers in the Legal Department represent the village in litigation by or ag
 The department works closely with the Board of Trustees drafting ordinances and resolutions and preparing and reviewing legal contracts involving the village.
 
 ## The Legal Department
+
 Bernard Harrison              1959-1961
 Marvin Glink                     1961-1965
 Harvey Schwartz               1966-1987
 Barbara M Meyer             1988-
 
 ## The Police Department
+
 When Niles Centre was incorporated in 1888, its law enforcement agency consisted of a single police magistrate. By the mid-1980s, the force had grown right along with the community, employing now more than 100 officers and approximately 30 civilian employees.
 
 All new officers of the Skokie Police force are required to pass the extensive Basic Law Enforcement Officers Training Course approved by the Illinois Local Government Law Enforcement Officers Training Board. Additional training for new recruits is provided by the Skokie Police Department, as well as ongoing training programs in all areas of law enforcement for veteran officers.
 
 The Skokie Police Department offers a variety of community safety programs. In 1987, the department maintained 17 different programs, targeted for senior citizens, youths, business and industry, as well as the general population. A few of these programs include assistance in installing burglary alarms and surveying home security, regular patrol-car checks of homes whose owners are away, personal safety programs for women and senior citizens, and various youth counseling services. There is also a variety of business oriented programs on topics as diverse as bad checks, bomb threats, retail theft prevention, and even a ride along program in which citizens over the age of 12 can ride in squad cars with uniformed officers on patrol.
 
+![Skokie's finest from an earlier generation. The five notables standing in front of one of Skokie's squad cars of the era are, left to right: Chief Griffin, Captain Stolberg, Judge Ralph Jellman, George Blameuser, and Ambrose Brod.]({{ site.baseurl }}/assets/img/117.jpg)
+*Skokie's finest from an earlier generation. The five notables standing in front of one of Skokie's squad cars of the era are, left to right: Chief Griffin, Captain Stolberg, Judge Ralph Jellman, George Blameuser, and Ambrose Brod.*
+
 ## The Fire Department
+
 One of the oldest surviving institutions in the village, the Skokie Fire Department dates all the way back to May 6, 1881, when nearly all the adult males in the vicinity banded together to form the Niles Centre Volunteer Fire Department. The department has come a long way since the first bucket brigade was formed more than a century ago. Today three modern fire stations are manned around the clock by firefighters trained in the latest techniques of fire prevention and control, paramedicine, and rescue service.
 
 The department’s headquarters (Station #1) is located in a building constructed in 1969 at 7424 Niles Center Road. Station #2, built in 1940, is at 8340 Hamlin Avenue, and Station #3, 9024 Gross Point Road, was built in 1960. Approximately 120 people are employed in various capacities by the department.
@@ -466,14 +370,17 @@ A 1977 village publication offered this description of a typical fire alarm. “
 Like the Police Department, the Skokie Fire Department offers a number of community safety programs. Included are inspection services, fire safety programs, paramedic packs to alert health emergency professionals treating persons with specific medical conditions, and stickers to identify areas housing invalids who would need assistance during an emergency requiring evacuation.
 
 ## The Planning Department
+
 The Planning Department provides the Mayor, the Board of Trustees, the Village Manager, and the Plan and Appearance Code commissions with a variety of reports, documents and exhibits prepared to provide expert assistance in helping the village retain the character of Skokie for its residents. The department plays an important role developing a comprehensive plan for the community as well as specific zoning ordinances. It also provides villagers with information about the zoning of private property, petitions to amend code requirements, and help with various legal documents related to real estate ownership and usage.
 
 The department has significant involvement in the village’s economic development as well, ensuring that the community maintains its tax base through redevelopment. This is especially important in light of the fact that Skokie has virtually no real vacant property for new development.
 
 ## Building and Zoning Department
+
 The primary function of the Building and Zoning Department is to help residents, builders, and architects construct buildings and improvements in compliance with village building codes. All new construction requires a permit from the department, and there are several inspections while construction is in progress. The foundation of a building is inspected before concrete is poured. When plumbing, electrical, and heating systems are installed, but before wall coverings are applied, a second inspection is made. A final inspection is required before a Certificate of Occupancy is awarded. The departments employ various inspectors skilled in different areas of construction, such as building mechanics, electrical systems, and plumbing.
 
 ## East Dempster Redevelopment
+
 By the early 1980s, there was growing concern in the village about the deterioration of the commercial area on Dempster Street between McCormick Boulevard on the east and Kildare Avenue to the west.
 
 The structures along that stretch of road had aged, many showing signs of definite need for renovation. To remedy the situation, a task force was appointed by Village Manager Robert J. Eppley to study the situation and come up with a program to rehabilitate the area.
@@ -489,6 +396,7 @@ To improve the looks of the area, there was new landscaping and the adoption of 
 All improvement work for the East Dempster Street Program was completed by May 1988.
 
 ## Public Works Department
+
 The largest and most diverse of all the village departments is the Public Works Department, whose activities range from garbage collection to tree trimming to street, water main, and sewer maintenance. The Municipal Engineer heads the Civil Engineering Division, which designs and supervises the construction of public facilities such as streets, water mains, sewers, sidewalks, parking lots, and alleys. The division is also responsible for inspecting plans for commercial buildings.
 
 The Traffic Engineering Division conducts ongoing studies to increase traffic flow on main arterial roads and diminish it along residential streets.
@@ -504,6 +412,7 @@ The Automotive Division maintains and repairs all village vehicles.
 The maintenance repair of all village streets, alleys, sidewalks, and parking lots is the responsibility of the Street and Alley Division, which also has the chilly task of clearing streets and sidewalks of ice and snow.
 
 ## Human Services Division
+
 The Human Services Division of Skokie is a very important part of Village government, particularly because its entire reason for being is to promote and aid the health and welfare of Skokie residents.
 
 Under the jurisdiction of the Village Manager’s office, the Human Services director is responsible for all planning and direction of the division, whose purpose is to provide counseling, transportation, and meals for handicapped persons.
@@ -515,6 +424,7 @@ It is by no means a small operation. In fiscal year 1988, it is estimated that t
 The village has defined the objectives of the Human Services Division, and it is a fine example of the growth of Skokie and the spirit that is so closely associated with it. Information about these services is readily available at Village Hall.
 
 ## Health Department
+
 Although the village maintained a part-time health office since the 1930s, a formal Health Department was not established until nearly three decades later, when early Village Manager Ben Marsh started one. Today the Health Department operates a variety of programs in the areas of personal health, animal control, and environmental protection. The personal health services offered by 1987 included the following:
 
 Adult Hearing Screening
@@ -534,13 +444,14 @@ Well Child Clinic
 
 The department’s Environmental Health Division employs registered sanitarians who make regular inspections of restaurants, food stores, food delivery vehicles, taverns, and a variety of other establishments including barber shops, laundromats, and dry cleaners.
 
-![The Skokie Health Department in action, in this instance, a cholesterol screening](link to image)
+![The Skokie Health Department in action, in this instance, a cholesterol screening]({{ site.baseurl }}/assets/img/120.jpg)
 *The Skokie Health Department in action, in this instance, a cholesterol screening*
 
 ## Finance Department
+
 The agency with the difficult task of overseeing the financial operation of all the previously mentioned government departments, commissions, and employees is the Finance Department. It is directly responsible for processing the payroll and the investment of village funds. The department director supervises the accounting, collecting, data processing, licensing, parking fine and enforcement, and weights and measure control functions of the village. The director also serves as chairman of the Insurance Committee and acts as treasurer for the Fire and Police Pension boards.
 
-![Skokie Village Hall at 5127 Oakton Street](link to image)
+![Skokie Village Hall at 5127 Oakton Street]({{ site.baseurl }}/assets/img/1985034037.jpg)
 *Skokie Village Hall at 5127 Oakton Street*
 
 > ### The Honorable Albert J Smith
@@ -565,11 +476,12 @@ The agency with the difficult task of overseeing the financial operation of all 
 >These well-publicized events were exceptions in his long mayoral career. Most of the hours in the 22 years of public service he devoted to the village as Mayor were spent on the many and varied responsibilities that are necessary to achieve efficient and scandal-free government.
 >
 >Over the years, Mayor Smith has been the recipient of a wide variety of awards: Man of the Year, Citizen of the Year, among many others. Perhaps one of the most meaningful accolades was proffered by his secretary, Bea Schatz, when she described him simply as, “one of the most caring people I have ever known.”
-
-![Albert J. and Angie Smith](link to image)
+>
+>![Albert J. and Angie Smith]({{ site.baseurl }}/assets/img/123.jpg)
 *Albert J. and Angie Smith*
 
 ## The Skokie Park District
+
 Over the past six decades, Skokie has developed one of the finest systems of parks of any community its size in America. As a result, the U.S. Department of interior has formally recognized the district as a model park district.
 
 The wide array of first-rate facilities and services offered by the Skokie Park District did not develop overnight, however. The birth of the village’s public park system did not, in fact, occur until February 3, 1928, when a referendum was passed to create the Niles Center Park District. The first five elected commissioners were: Emil Blameuser, John Kalmes, Leo Heinz, A.C. Galitz, and W.R. Nelson.
@@ -596,13 +508,14 @@ Another facility scheduled to open in 1988 is the Emily Oaks Nature Center at 47
 
 Over the years the Skokie Park District has offered quality recreational programs to all age groups. In the future, the aim of the Park District is to continue to meet the needs and desires of Skokie residents.
 
-![Emily Oaks Nature Center, dedicated in 1988](link to image)
+![Emily Oaks Nature Center, dedicated in 1988]({{ site.baseurl }}/assets/img/125a.jpg)
 *Emily Oaks Nature Center, dedicated in 1988*
 
-![Skokie Water Playground at Oakton Part, also dedicated in 1988](link to image)
+![Skokie Water Playground at Oakton Part, also dedicated in 1988]({{ site.baseurl }}/assets/img/125b.jpg)
 *Skokie Water Playground at Oakton Part, also dedicated in 1988*
 
 ## The Skokie Public Library
+
 In 1929, a group of women banded together to form the Cosmos Club in Niles Center, an organization whose purpose was to launch and carry out projects that would aid the community. One of their first efforts was to develop a public library, something the village had never had.
 
 A committee of Cosmos Club women was organized under the direction of Mrs. Alan R. Wile, and the quest for a community library was off and running. Space was obtained in the Blaumeuser Building at Lincoln and Oakton. To furnish it, the club had to rely on donations of such things as desks, chairs, a reading table, a clock, and curtains.
@@ -611,9 +524,7 @@ Funds were raised through card parties and bake sales as well as through gifts f
 
 The new library for Niles Center was formally opened February 7, 1930. At the time of that ceremony, the library could boast about 1,000 volumes, most of the books donated by residents of the village. Its doors were open to the public for 10 hours each week.
 
-The Cosmos Club was forced to close the library in October 1932 because its space in the Blaumeuser
-
-Building was rented for other purposes, and the club could not afford to rent elsewhere.
+The Cosmos Club was forced to close the library in October 1932 because its space in the Blaumeuser Building was rented for other purposes, and the club could not afford to rent elsewhere.
 
 The village came to the club’s rescue, however, and made space available in Village Hall, where the library was reopened in April 1933.
 
@@ -625,9 +536,7 @@ The most vital step in that direction came about in 1958. With the library’s l
 
 On February 1, 1960, the new Skokie Public Library was opened at 5215 Oakton. And from the start it was a showplace. Designed by the eminent Chicago architectural firm Skidmore, Owings and Merrill (architects of the University of Illinois Chicago Circle Campus), the building quickly earned awards from the Chicago Municipal Art League, the American Institute of Architects, and the American Library Association.
 
-At its opening, the new library contained approximately 50,000 books, but had a capacity of housing
-
-150,000, and it employed 25 people. Under the guidance of Mary Radmacher, the library has grown considerably since then, with a major addition in 1972 tripling its floor space.
+At its opening, the new library contained approximately 50,000 books, but had a capacity of housing 150,000, and it employed 25 people. Under the guidance of Mary Radmacher, the library has grown considerably since then, with a major addition in 1972 tripling its floor space.
 
 In a statistical summary for fiscal year 1987, Library Director Carolyn Anthony reported that the library contained 355,924 books in its collection, as well as thousands of other types of educational materials, including record albums, cassette tapes, and various other audio and visual materials. Total circulation for 1987 was 671,494, an average of about 11 circulations for each resident of the village.
 
@@ -649,13 +558,14 @@ A wide variety of feature-length films are shown in Petty Auditorium. Many progr
 
 The library has come a long way from the one- room facility the women of the Cosmos Club put together back in 1930.
 
-![New addition of the nationally-recognized Skokie Public Library, built in 1972](link to image)
+![New addition of the nationally-recognized Skokie Public Library, built in 1972]({{ site.baseurl }}/assets/img/126a.jpg)
 *New addition of the nationally-recognized Skokie Public Library, built in 1972*
 
-![Inside the library, a youngster uses the computerized card catalog system [Photo by Milton Nidetz]](link to image)
+![Inside the library, a youngster uses the computerized card catalog system. Photo by Milton Nidetz]({{ site.baseurl }}/assets/img/126b.jpg)
 *Inside the library, a youngster uses the computerized card catalog system [Photo by Milton Nidetz]*
 
 ## Mary Radmacher
+
 The Skokie Public Library was quite a different institution when Mary Radmacher left the reference section of the Gary (Indiana) Public Library to become chief librarian back in 1956.
 
 Among the long list of her accomplishments:
@@ -666,10 +576,11 @@ The major addition in 1972, which tripled the floor space of the library and inc
 The automation and computerization of the card catalog system.
 Mary Radmacher retired as chief librarian in 1987, after 29 years of exceptional service to the library and the community.
 
-![Former chief librarian Mary Radmacher](link to image)
+![Former chief librarian Mary Radmacher]({{ site.baseurl }}/assets/img/129.jpg)
 *Former chief librarian Mary Radmacher*
 
-> ### The PettY Auditorium
+> ### The Petty Auditorium
+>
 >The Petty Auditorium, a 200-seat theater on the first floor of the Skokie Public Library, was an important feature of the major 1972 addition to the library.
 >
 >The auditorium was named in honor of Selma Martinson Regan Petty, who was elected to the first library board in 1942 and served on every subsequent board until poor health forced her to resign in 1972.

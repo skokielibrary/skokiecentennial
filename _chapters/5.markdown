@@ -2,7 +2,6 @@
 title: "5"
 subtitle: "Niles Center Becomes Skokie"
 ---
-Chapter 5: Niles Center Becomes Skokie
 
 By the late 1930s, some residents of Niles Center were beginning to campaign for a change in the village’s name. One reason expressed was that there was often confusion caused by the names of the two neighboring villages, Niles and Niles Center, both of which are within Niles Township.
 
@@ -36,7 +35,7 @@ As the story goes, while working at his desk one morning, King noticed a letter 
 
 King cut out the portrait from the letterhead, pasted it on an envelope, and added the words “Skokie, Illinois.” He showed the envelope to Willard Galitz, the son of Niles Center Bank founder William Galitz. At the time, Willard was a cashier at the Niles Center Bank and later served as president of the rechartered First National Bank of Skokie. Galitz agreed that the suggestion was a good one.
 
-In the meantime, the 30-member “name committee” had been struggling to fulfill its duties. Among the names it had been considering were Oakton, Ridgemoor, Woodridge, and Wesfridge. The name Skokie was suggested during the latter stages of the talks. “It was just batted out during one of our informal discussions,” George Blameuser recalled.
+In the meantime, the 30-member “name committee” had been struggling to fulfill its duties. Among the names it had been considering were Oakton, Ridgemoor, Woodridge, and Westridge. The name Skokie was suggested during the latter stages of the talks. “It was just batted out during one of our informal discussions,” George Blameuser recalled.
 
 Strongly backed by King, Galitz, and others, the name Skokie prevailed, receiving 15 of the 24 votes cast by members of the committee. Of the also-rans, Oakton received 4 votes, Woodridge 2, Ridgemoor 2, and Westridge 1. The vote received little publicity, but the results were quick. On August 21, the new name was filed in Springfield and approved the next day.
 
@@ -47,10 +46,11 @@ Some residents still resisted, however, keeping Niles Center prominent in the na
 In summation, Richard J. Witty observed appropriately in his Luxembourg Brotherhood of America, “If Scotty Krier initiated the name change, Armond King nurtured it, and George E. Blameuser implemented it.”
 
 
-![Looking down on Lincoln Avenue and St. Peters Church](link to image)
+![Looking down on Lincoln Avenue and St. Peters Church]({{ site.baseurl }}/assets/img/82.jpg)
 *Looking down on Lincoln Avenue and St. Peters Church*
 
 ## The War Years
+
 In the years leading up to the Japanese attack on Pearl Harbor and America’s involvement in World War II, the elements of nature brought a sense of foreboding to the village of Skokie of the turmoil that was to come. In July 1938, an intense rain storm caused severe flooding along the North Branch of the Chicago River. About six months later, on January 30, 1939, a snowstorm swept inland from Lake Michigan and dumped 14 inches of snow on the village.
 
 Then, in February 1941, the first taste of the looming war came when 11 men from the Park Ridge district, which included Skokie, were inducted into the army.
@@ -75,14 +75,15 @@ During the summer of 1943, the Skokie village government supplied tractors free 
 
 After nearly four years spent supporting the war effort, all businesses in the village were closed to celebrate VJ Day in 1945. The deprivations of the war years, following those of the decade-long Depression, were nearing an end. Skokie was about to enter its second, this time sustained, period of growth.
 
-![Last day cancellation for Niles Center, IL](link to image)
+![Last day cancellation for Niles Center, IL]({{ site.baseurl }}/assets/img/84.jpg)
 *Last day cancellation for Niles Center, IL*
 Last day cancellation for Niles Center, IL
 
-![First day cancellation for Skokie, IL](link to image)
+![First day cancellation for Skokie, IL]({{ site.baseurl }}/assets/img/85.jpg)
 *First day cancellation for Skokie, IL*
 
 ## The Postwar Boom
+
 During the first real estate boom, which occurred in the 1920s, village planners saw Skokie developing much along the lines of neighboring Evanston and accordingly zoned much of the land to be developed for apartment buildings. But as villagers turned their thoughts from World War II to their own neighborhoods, it became clear that Skokie, at least in the near future, was not destined to follow Evanston’s lead. A conscious decision was made to try to preserve the village’s suburban, single-family residence quality.
 
 In May 1946, the Board of Trustees adopted the Skokie Village Master Plan, basically a rezoning ordinance, which shifted the emphasis on new construction from apartment houses to single family residences. It was a wise choice. Not only did the new ordinance help to set Skokie apart from Chicago and Evanston, but it also laid the groundwork for decades of sustained growth.
@@ -99,13 +100,14 @@ In 1949, the trustees approved a 25-year contract to purchase Lake Michigan wate
 
 By 1953, the Village Board passed Skokie’s first million-dollar appropriations measure for the fiscal year ending April 30, 1954. And, on July 19, 1955, the Board voted to impose a five percent sales tax on most items sold within the village limits, with the new tax effective on September 1 of that year.
 
-![Downtown Skokie in the late 1940s, looking west along Oakton from Lincoln.](link to image)
+![Downtown Skokie in the late 1940s, looking west along Oakton from Lincoln.]({{ site.baseurl }}/assets/img/1987047065.jpg)
 *Downtown Skokie in the late 1940s, looking west along Oakton from Lincoln.*
 
-![Niles Township High School as it appeared on the cover of Skokie Life on March 6, 1941, which, incidentally, cost a nickel in those days.](link to image)
+![Niles Township High School as it appeared on the cover of Skokie Life on March 6, 1941, which, incidentally, cost a nickel in those days.]({{ site.baseurl }}/assets/img/86.jpg)
 *Niles Township High School as it appeared on the cover of Skokie Life on March 6, 1941, which, incidentally, cost a nickel in those days.*
 
 ## The Jewish Migration
+
 Many of the people who came to Skokie during the postwar era moved from apartment houses in Chicago. But unlike the earlier migrations to Niles Center, these newcomers consisted of large numbers of Jewish people, many of Eastern European heritage. During the decade from 1945 to 1955, approximately 3,000 Jewish families settled in Niles Township, many within the boundaries of Skokie.
 
 Before long, a variety of Jewish community organizations were formed by the new arrivals, including the Niles Township Jewish Men’s Club in 1949, the Niles Township Jewish Community Club in 1950, and the National Council of Jewish Women in 1953. The Niles Township Jewish Community Club formed the nucleus of support for the township’s first synagogue.
@@ -125,13 +127,14 @@ Among the significant of the new businesses taking up residence in Skokie were t
 
 By 1954, a total of 296 retail establishments were operating within the village limits. The number increased dramatically just a few years later when the Old Orchard Shopping Center, first announced in 1950, was completed in 1956.
 
-![Jubilation at Civic Party headquarters in April 1959 after election victory; clasping hands are, from left, Albert Smith, Ray Jackson and Bill Siegel.](link to image)
+![Jubilation at Civic Party headquarters in April 1959 after election victory; clasping hands are, from left, Albert Smith, Ray Jackson and Bill Siegel.]({{ site.baseurl }}/assets/img/88.jpg)
 *Jubilation at Civic Party headquarters in April 1959 after election victory; clasping hands are, from left, Albert Smith, Ray Jackson and Bill Siegel.*
 
-![The renowned Skokie Drum & Bugle Corps at the American Legion National Convention at Randall's Island in New York in 1952](link to image)
+![The renowned Skokie Drum & Bugle Corps at the American Legion National Convention at Randall's Island in New York in 1952]({{ site.baseurl }}/assets/img/1998016010.jpg)
 *The renowned Skokie Drum & Bugle Corps at the American Legion National Convention at Randall's Island in New York in 1952*
 
 ## Skokie Comes of Age
+
 During the 1950s and early 1960s, a series of governmental scandals and subsequent reforms eventually transformed the administration of Skokie into a model of suburban government, led by a professional village manager and a multi-term mayor, Albert J. Smith.
 
 The period also saw the completion of two new high schools, a new post office, a magnificent public library building, a village court system and the Skokie Swift rapid transit system. During that time, the village also celebrated its diamond jubilee, and received official affirmation that Skokie was indeed the “World’s Largest Village.”
@@ -152,13 +155,14 @@ In a fast-growing community of such diverse cultural interests, it is not diffic
 
 In December 1961, the “pin-up” picture of 85- year-old Alma Louise Klehm, Niles Center’s pioneering school teacher, appeared as the cover girl on the First National Bank’s calendar. The year covered by that now locally famous calendar saw the creation of the first Skokie Historical Society (the society that exists today was not founded until 1978) as well as the Skokie Valley Symphony Orchestra.
 
-![Ambrose Reiter, who served as a Village Trustee (1949-57) and Mayor (1957-61) addresses a voters' group in 1957.](link to image)
+![Ambrose Reiter, who served as a Village Trustee (1949-57) and Mayor (1957-61) addresses a voters' group in 1957.]({{ site.baseurl }}/assets/img/91.jpg)
 *Ambrose Reiter, who served as a Village Trustee (1949-57) and Mayor (1957-61) addresses a voters' group in 1957.*
 
-![A ribbon-cutting ceremony at the dedication of the new Skokie police headquarters at 8333 Lincoln Avenue:  left to right:  Jack Seeley, Ray Krier, Ambrose Reiter, Jum Smith, Mrs. Wilson, Bill Krewer, Police Chief William Griffin](link to image)
+![A ribbon-cutting ceremony at the dedication of the new Skokie police headquarters at 8333 Lincoln Avenue:  left to right:  Jack Seeley, Ray Krier, Ambrose Reiter, Jum Smith, Mrs. Wilson, Bill Krewer, Police Chief William Griffin]({{ site.baseurl }}/assets/img/1983046004.jpg)
 *A ribbon-cutting ceremony at the dedication of the new Skokie police headquarters at 8333 Lincoln Avenue:  left to right:  Jack Seeley, Ray Krier, Ambrose Reiter, Jum Smith, Mrs. Wilson, Bill Krewer, Police Chief William Griffin*
 
 ## Skokie Comes of Age
+
 In April 1962, the board of trustees adopted a new slogan for Skokie: “Village of Vision.” But the motto was to be short-lived, replaced as the result of a revelation that came a few months later. Back in the 1920s, it may be recalled, a series of substantial annexations gave Niles Center the largest area of incorporated land in the United States administered under the village form of government. Nearly 40 years later, on June 26, 1962, the Board of Trustees noted that the population of Skokie had surpassed that of Oak Park, Illinois, by about 4,200 residents, thus giving it the largest population of any village in the United States.
 
 At that point, the trustees proclaimed Skokie as “The World’s Largest Village.” The official motto may still have been “Village of Vision,” but not long after the trustees’ proclamation, the phrase “The World’s Largest Village” began appearing in newspapers and brochures and on signs strategically located at various village boundaries.
@@ -170,6 +174,7 @@ In an agreement with the federal government, the Village Green, on Oakton Street
 It was a festive time, both for private residents as well as resident businesspeople. By 1964, Skokie had about 900 retail businesses with combined annual sales of more than $175 million. The village’s 350 industries produced nearly $1 billion worth of products.
 
 ## The World's Largest Village
+
 Despite the fact that Skokie Valley was one of the fastest growing areas in the United States throughout the 1950s, none of the communities within its general boundaries had a hospital until late in 1963. That was the year in which the Skokie Valley Community Hospital was officially dedicated. The event marked the end of a nearly decade-long campaign to build a major health facility in the area.
 
 Back in the middle 1950s, many residents of Skokie and neighboring communities recognized the need for a local hospital. Around 1954, two men took the lead in channeling that interest in a constructive direction. One was Dr. Raymond Gait, a resident of Golf who became chairman of the hospital’s building campaign committee, and the other was Thomas H. Coulter, executive director the Chicago Association of Commerce and Industry. In December 1955, the village trustees obtained an Illinois state charter for “Old Orchard Community Hospital,” whose name was changed to Skokie Valley Community Hospital three years later.
@@ -186,13 +191,14 @@ Its emergency department has physicians and nurses on duty around the clock. Fac
 
 The staff also operates services that range from a “Careunit” for alcohol and drug abuse to the preventive “Good Health” and cardiac rehabilitation programs.
 
-![The eye treatment is being carried out in the Rush North Shore Medical Center's ambulatory care unit.](link to image)
+![The eye treatment is being carried out in the Rush North Shore Medical Center's ambulatory care unit.]({{ site.baseurl }}/assets/img/92a.jpg)
 *The eye treatment is being carried out in the Rush North Shore Medical Center's ambulatory care unit.*
 
-![External view of the Rush North Shore Medical Center, formerly known as the Skokie Valley Hospital](link to image)
+![External view of the Rush North Shore Medical Center, formerly known as the Skokie Valley Hospital]({{ site.baseurl }}/assets/img/92b.jpg)
 *External view of the Rush North Shore Medical Center, formerly known as the Skokie Valley Hospital*
 
 ## The Skokie Swift
+
 For nearly four decades, the old Chicago, North Shore and Milwaukee Railroad had brought the convenience of Chicago’s Rapid Transit System to the residential neighborhoods of Skokie. On January 21, 1963, however, the railroad closed down, citing financial losses due, for the most part, to the popularity and convenience of automobile travel on Edens Expressway. For many residents of the village who preferred riding on elevated trains to driving, the event was a most unhappy one.
 
 The inconvenience, fortunately, was one of only short duration. A little more than a year later, aided by grants from the United States government’s Department of Housing and Urban Development, the five miles of abandoned track between the old North Shore’s Dempster Street station and the Chicago city limits were rehabilitated and a high-speed commuter shuttle, dubbed the Skokie Swift, began operating.
@@ -203,7 +209,12 @@ Service on the Skokie Swift, operated by the Chicago Transit Authority, began in
 
 Despite the minor setbacks, the development of the Skokie Swift has helped thousands of commuters from Skokie and the immediate area. In 1965, American City magazine gave Skokie its “Award of Merit for Leadership” for the village’s role in the development of the rejuvenated line.
 
+!["Ride the Skokie Swift" sign]({{ site.baseurl }}/assets/img/94a.jpg)
+
+![Skokie Swift trains]({{ site.baseurl }}/assets/img/94b.jpg)
+
 ## Notes From the 1960's
+
 A number of noteworthy, if varied, events occurred during the middle 1960s. On May 26, 1965, a tornado touched down and tore away almost all of the roof of Old Orchard Junior High School.
 
 Little more than two months later, on August 2, the Board of Trustees directed the Board of Local Improvements to provide for the hard resurfacing of the last twelve miles of unpaved road within the village limits.
@@ -216,13 +227,14 @@ Besides the tornado of 1965, Mother Nature added another touch of inclement weat
 
 Five months after that calamity, on June 10 and 11, violent thunderstorms caused massive flooding and destruction, and led to the creation of Skokie’s Flood Control Action Commission.
 
-![The layout of a proposed mall for Lincoln Avenue in the 1970s showing suggested changes which were never adopted](link to image)
+![The layout of a proposed mall for Lincoln Avenue in the 1970s showing suggested changes which were never adopted]({{ site.baseurl }}/assets/img/97.jpg)
 *The layout of a proposed mall for Lincoln Avenue in the 1970s showing suggested changes which were never adopted*
 
-![The Cook County Circuit Courthouse at 5600 Old Orchard Road, which officially opened its doors for legal business in early 1983](link to image)
+![The Cook County Circuit Courthouse at 5600 Old Orchard Road, which officially opened its doors for legal business in early 1983]({{ site.baseurl }}/assets/img/1985034013.jpg)
 *The Cook County Circuit Courthouse at 5600 Old Orchard Road, which officially opened its doors for legal business in early 1983*
 
 ## Human Rights
+
 During the 1960s and early 1970s, nationwide protests against racial discrimination became nearly as fervent as demonstrations against the war in Vietnam. While unrest over unfair housing practices spread throughout much of the country, Skokie became one of Chicago’s first suburbs to pass a fair housing ordinance. The village’s first anti-discrimination housing law was passed in October 1967, and it was greatly strengthened in an amendment the following year.
 
 The Skokie Fair Housing Ordinance of 1968, the first enacted in the state of Illinois, approved on December 2, prohibited discrimination by owners and realtors in the sale, rental, lease and financing of homes and apartments because of race, religion, color, national origin, or ancestry. The Skokie Human Relations Commission was also formed to ensure compliance with the ordinance as well as with the village’s Fair Employment Practices Law. It, too, was the first of its kind to be established in the state.
@@ -234,6 +246,7 @@ In 1966, the village published an informational brochure, prepared by the Skokie
 Skokie’s sizeable Jewish population was also instrumental in improving awareness of the deplorable condition of human rights for Jews in the Soviet Union. In January 1971, the village board adopted an ordinance demanding freedom for Soviet Jews. The ability of Skokie’s Board of Trustees to influence Soviet domestic policies was, of course, limited, but a thoughtful voice had been heard and a clear point made.
 
 ## Revitalizing the Village
+
 By 1969, a study reported in the Skokie Life indicated that only about six percent of the land within the village’s borders remained vacant, and virtually all of that was in widely scattered lots. The amount of land left for new development was obviously limited. But there was still an opportunity to modernize a number of existing structures, and to rebuild on already developed land. Some aspects of urban decay, even in suburbs such as Skokie, were evident during the 1960s and 1970s.
 
 On February 9, 1970, the Village Board was presented with a comprehensive plan, prepared by the Planning Commission, to regulate development and redevelopment in Skokie. A couple of major steps in the village facelift had already been in the works. On November 6, 1967, approval was given for the construction of the multi-million dollar Miller commercial complex at the southeast corner of Golf Road and Skokie Boulevard. A year later, on November 21, 1968, a building permit was issued to the Jewish Community Center of Niles Township to construct a facility on Church Street between LeClaire and Lawler.
@@ -247,6 +260,7 @@ A big boost for the area redevelopment came on August 12, 1971, when ground-brea
 Changing population patterns have caused a number of alterations in village institutions in recent years. Because of declining enrollment, a number of schools have closed: historic Niles East in 1975, Sharp Corner and College Hill a year later, Kenton and Cleveland by the mid-1980s, and scheduled for closing after the 1988 school year is Fairview North.
 
 ## The Deep Tunnel Project
+
 Like much of the Chicago area, Skokie has had its share of flooding problems over the years. The struggle to keep some areas dry during the spring and other times of heavy rainfall has been a consistent theme in the history of the village as well as much of Chicagoland.
 
 On November 14, 1974, the Northeastern Illinois Planning Commission endorsed the massive, albeit controversial, North Shore Channel Deep Rock Tunnel, part of the even larger, more expensive Tunnel and Reservoir Plan (TARP) of the Metropolitan Sanitary District, a project popularly known as the “Deep Tunnel.”
@@ -258,6 +272,7 @@ Since it was first proposed in the 1960s, TARP has been controversial. In the ea
 During widespread flooding in the Chicago area in 1987, the Deep Tunnel failed to alleviate problems. Defenders point out, however, that the project is not yet complete and, at the time, it could not be expected to handle the vast amounts of surface water standing on saturated soil. But while the final verdict has yet to be delivered, other municipalities, including Milwaukee, San Francisco, and Rochester (N.Y.) are taking TARP seriously. All three have similar plans.
 
 ## Flood Control
+
 Flooding in homes and businesses had posed a major problem for the residents of Skokie for many years. It was the heavy rains and flood damage in the summer of 1981 that forced village officials to launch an all-out attack on the problem.
 
 The problem emanated from the sewer systems that had been constructed in the 1920s. They were combined sewers intended to carry both sanitary flows and storm water runoff to the treatment plant and the North Shore Channel during high runoff periods. But the original trunk sewers were of limited capacity.
@@ -283,6 +298,7 @@ A program for the remainder of the village has also been approved, involving a f
 And Skokie basements will be all the drier for it.
 
 ## Orchard Mental Health Center
+
 The Orchard Mental Health Center of Niles Township, which is often referred to simply by the acronym OMHC, has played an important role in the provision of community services over the past decade. An offspring of the Orchard School, which had been founded by Julia S. Molloy, for whom the Molloy Center in Morton Grove is named, OMHC was officially incorporated December 28, 1976.
 
 The center, located today at 8600 Gross Point Road, was formed as a not-for-profit outpatient community agency with a goal to provide mental health services that are affordable for all citizens within the township.
@@ -293,7 +309,10 @@ One of the more recent innovations at OMHC is the Transitional Living Program wh
 
 The center is funded chiefly by the Illinois Department of Mental Health, Illinois Department of Children & Family Services, Niles Township Administration, and the United Way of Skokie Valley.
 
+![Orchard Mental Health Center]({{ site.baseurl }}/assets/img/1985034013.jpg)
+
 ## The Threatened Nazi March
+
 Early in 1977, American neo-Nazi Frank Collin wrote a letter to the Skokie Park District asking for permission to hold a rally in a village park. In almost any community imaginable, but especially in one with a large Jewish population, many of whom are survivors of Nazi death camps, the request was far from welcome. Park District officials responded carefully, ordering Collin to post a $350,000 insurance bond. Collin countered by announcing that he intended to demonstrate on May 1 against the Park District’s policies.
 
 Mayor Albert Smith, Corporation Counsel Harvey Schwartz, and other village officials tried to remain low key, reluctantly taking the position that the First Amendment rights of the U.S. Constitution gave the neo-Nazis the right to demonstrate. But serious objections were raised in the community, and the threatened march became a major media issue throughout the nation.
@@ -311,19 +330,21 @@ But the drama was not quite over. Because of the national interest the confronta
 At the time Skokie was shown on television, neo-Nazi Frank Collin, however, was in no position to comfortably watch it. He was in prison for the crime of taking indecent liberties with a minor.
 
 ## In Recent Years
+
 In 1982, the Board of Trustees granted Group W Cable, Inc., a franchise to provide cable television service in Skokie. The village’s Cable Television Office, created to distribute information and investigate citizen complains, was established the same year. In 1984, the village created the Cable Television Advisory Board and the Skokie Cable TV Foundation, a not-for-profit corporation to promote local access programming. Today the cable television franchise is in the hands of Telecommunications, Inc.
 
 Smoking, or perhaps not smoking, in Skokie received a good deal of publicity in the entire Cook County area in 1987 when the village decided to restrict it. The result was one of the toughest anti-smoking measure in the state of Illinois. Little public controversy, however, accompanied it in December of that year when Skokie passed its ordinance requiring non-smoking areas in all restaurants, schools, banks, and other buildings open to the public.
 
 Reaction to the proposed neo-Nazi demonstration and the passage of a strong anti-smoking ordinance are prime examples of the village’s recent concern and confrontation with important social issues.
 
-![Skokie Farmers Market](link to image)
+![Skokie Farmers Market]({{ site.baseurl }}/assets/img/102.jpg)
 *Skokie Farmers Market*
 
-![Fortman's Nursery](link to image)
+![Fortman's Nursery]({{ site.baseurl }}/assets/img/2000007006.jpg)
 *Fortman's Nursery*
 
 > ### The Holocaust Memorial Monument
+>
 >On May 31, 1987, a little more than 42 years after World War II came to an end, a monument to the approximately six million Jews and other victims of the Nazi Holocaust was unveiled in Skokie.
 >
 >The site was most appropriate because, at the time, many Holocaust survivors resided within the village limits, more than those in the city of Chicago or any other suburb in the area. In addition, Skokie had faced the neo-Nazi march threat of 1977 and emerged victorious in their efforts to prevent it. Therefore, the idea was offered to erect a monument so that the horrendous Nazi crime of attempted genocide would not be forgotten. A committee was formed in the 1980s and work was subsequently started to bring the project to fruition.
@@ -331,6 +352,8 @@ Reaction to the proposed neo-Nazi demonstration and the passage of a strong anti
 >The committee approached village officials seeking a proper public location for the monument. Mayor Albert J. Smith and the Board of Trustees agreed that village property could be used, the site selected to be on the grounds between the Skokie Public Library and Village Hall.
 >
 >A sculpture design by Chicago artist Bert Gast was then approved. The resulting statue, which symbolizes the attempted destruction of European Jewry, contains the depictions of a freedom fighter, a youth clinging to his grandfather, and an anguished mother cradling her dead child. The three generations of victims are set upon a symbolic detritus of bricks, torn prayer books, a menorah, and other items.
+>
+>![Bert Gast sculpture]({{ site.baseurl }}/assets/img/103.jpg)
 >
 >The inscriptions on the statue were carefully selected upon advice from various Rabbis and other experts. It was agreed that the statue would bear six names of extermination camps, one for each million victims, and a saying from the book of Lamentations, both in its original Hebrew and in English translation.
 >
