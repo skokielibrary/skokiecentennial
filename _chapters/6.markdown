@@ -288,20 +288,20 @@ The Village Clerk also serves as a deputy registrar for the Clerk of Cook County
 
 ## Village Clerks
 
-Frank Wagner                   1888-1890
-Peter Blaumeuser III         1890-1895
-John Paroubek                  1895-1898
-Henry Heinz                      1898-1904
-George Busscher, Jr.         1904-1910
-Anthony Paroubek            1910-1914
-Charles F. Langfeld           1914-1932
-John Bresmann                  1932-1937
-Harold W. Klehm             1937-1946
-Arthur Thompson              1946-1949
-Peter Struck                      1949-1953
-John E. Seeley                  1953-1961
-William Siegel                   1961-1982
-Marlene Williams              1982-
+| Frank Wagner | 1888-1890|
+| Peter Blaumeuser III | 1890-1895|
+| John Paroubek | 1895-1898|
+| Henry Heinz | 1898-1904|
+| George Busscher, Jr. | 1904-1910|
+| Anthony Paroubek | 1910-1914|
+| Charles F. Langfeld | 1914-1932|
+| John Bresmann | 1932-1937|
+| Harold W. Klehm | 1937-1946|
+| Arthur Thompson | 1946-1949|
+| Peter Struck | 1949-1953|
+| John E. Seeley | 1953-1961|
+| William Siegel | 1961-1982|
+| Marlene Williams | 1982- |
 
 ## The Village Manager
 
@@ -319,15 +319,15 @@ The Village Manager also has responsibility for employing and dismissing the dir
 
 ## Skokie's Village Managers
 
-Arthur Lowther              1958
-Henry Weber (acting)        1958-1959
-Bernard J. Marsh            1959-1966
-Gordon E. Thorn             1966-1969
-William N. Brady (acting)   1969-1970
-John M. Matzer, Jr.         1970-1978
-Bernard J. Hohs (acting)    1978-1979
-Robert J. Eppley            1979-1987
-Albert J. Rigoni                 1987-
+| Arthur Lowther | 1958|
+| Henry Weber (acting) | 1958-1959|
+| Bernard J. Marsh | 1959-1966|
+| Gordon E. Thorn | 1966-1969|
+| William N. Brady (acting) | 1969-1970|
+| John M. Matzer, Jr. | 1970-1978|
+| Bernard J. Hohs (acting) | 1978-1979|
+| Robert J. Eppley | 1979-1987|
+| Albert J. Rigoni | 1987- |
 
 ## The Legal Department
 
@@ -339,10 +339,10 @@ The department works closely with the Board of Trustees drafting ordinances and 
 
 ## The Legal Department
 
-Bernard Harrison              1959-1961
-Marvin Glink                     1961-1965
-Harvey Schwartz               1966-1987
-Barbara M Meyer             1988-
+| Bernard Harrison | 1959-1961 |
+| Marvin Glink | 1961-1965 |
+| Harvey Schwartz | 1966-1987 |
+| Barbara M Meyer | 1988- |
 
 ## The Police Department
 
@@ -427,20 +427,20 @@ The village has defined the objectives of the Human Services Division, and it is
 
 Although the village maintained a part-time health office since the 1930s, a formal Health Department was not established until nearly three decades later, when early Village Manager Ben Marsh started one. Today the Health Department operates a variety of programs in the areas of personal health, animal control, and environmental protection. The personal health services offered by 1987 included the following:
 
-Adult Hearing Screening
-Blood Pressure Clinic
-Blood Replacement Program
-Children’s Immunization Clinic
-Diabetes Screening
-Flu Shots for Older Residents
-Foreign Travel Immunization Requirements
-Health Education Literature and Programs
-Home Visits from Public Health Nurses
-Information and Referral
-Preschool Vision and Hearing Screening
-Referral to VD Clinics
-Skokie Birth and Death Certificates
-Well Child Clinic
+- Adult Hearing Screening
+- Blood Pressure Clinic
+- Blood Replacement Program
+- Children’s Immunization Clinic
+- Diabetes Screening
+- Flu Shots for Older Residents
+- Foreign Travel Immunization Requirements
+- Health Education Literature and Programs
+- Home Visits from Public Health Nurses
+- Information and Referral
+- Preschool Vision and Hearing Screening
+- Referral to VD Clinics
+- Skokie Birth and Death Certificates
+- Well Child Clinic
 
 The department’s Environmental Health Division employs registered sanitarians who make regular inspections of restaurants, food stores, food delivery vehicles, taverns, and a variety of other establishments including barber shops, laundromats, and dry cleaners.
 
