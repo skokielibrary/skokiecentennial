@@ -74,22 +74,22 @@ The mayor can vote on all matters before the Board, and must vote in order to br
 
 With the approval of the Board, the Mayor appoints members to the 16 different boards, councils, and commissions, which are made up of Skokie citizens. Although these organizations do not perform legislative functions, they do provide significant advisory, legal, and regulatory services. By 1987, the following councils and commissions were in existence (the number of authorized members appears in parentheses after each):
 
-Advisory Council on Disabilities (12-15)
-Advisory Council on Human Services (18-24)
-Appearance Code Commission (5)
-Beautification Commission (20)
-Blood Donor Commission (20)
-Board of Health (20)
-Board of Local Improvements (5)
-Cable TV Advisory Board (7)
-Consumer Affairs Commission (13)
-Fine Arts Commission (20)
-Fire and Police Commission (5)
-Flood and Water Pollution Abatement Commission (15)
-Human Relations Commission (21)
-Plan Commission (9)
-Traffic Safety Commission (25)
-Zoning Board of Appeals (7)
+- Advisory Council on Disabilities (12-15)
+- Advisory Council on Human Services (18-24)
+- Appearance Code Commission (5)
+- Beautification Commission (20)
+- Blood Donor Commission (20)
+- Board of Health (20)
+- Board of Local Improvements (5)
+- Cable TV Advisory Board (7)
+- Consumer Affairs Commission (13)
+- Fine Arts Commission (20)
+- Fire and Police Commission (5)
+- Flood and Water Pollution Abatement Commission (15)
+- Human Relations Commission (21)
+- Plan Commission (9)
+- Traffic Safety Commission (25)
+- Zoning Board of Appeals (7)
 
 ## The Mayors of Skokie
 
