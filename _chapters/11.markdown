@@ -1,6 +1,6 @@
 ---
 title: "11"
-subtitle: ""
+subtitle: "Skokie’s Future"
 ---
 
 FROM THE SWAMPLAND AND FOREST where settlers carved out a small community about a century and a half ago to the formal incorporation of Niles Centre in 1888 to Skokie’s centennial celebra­tion of 1988, the village has woven an interesting his­tory and staked a proud heritage. Now, as it enters its second century of existence, Skokie faces a variety of new challenges.
@@ -38,3 +38,7 @@ Plans are presently in the works to create a prome­nade of extensive landscapin
 Still in an early stage of development is an in-depth evaluation of Skokie’s downtown business district, centered around the intersection of Oakton and Lin­coln. A historical site and a onetime fashion center for much of the North Shore, it is a viable area for revital­ization. At the time of Skokie’s centennial celebration in 1988, preliminary staff meetings were already be­ing held in Village Hall to determine what kinds of changes or additions would best serve the community.
  
 These are just a few of the plans and programs that Skokie will launch as the village moves into its second century. All such efforts are sure to be guided by the same spirit and sense of cooperation that, over the past 100 years, has moved Skokie from a rural settlement to a vital community headed toward the 21st century.
+
+![Village of Skokie sign]({{ site.baseurl }}/assets/img/162.jpg)
+
+![Skokie Centennial logo]({{ site.baseurl }}/assets/img/163.jpg)
