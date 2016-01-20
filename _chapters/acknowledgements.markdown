@@ -8,72 +8,28 @@ Skokie organizations and businesses. Gratefully acknowledged are:
 
 ## Skokie Government
 
-Mayor              Jacqueline
-Gorell
-
-Clerk                 Marlene
-Williams
-
-Trustees          Manly
-R. Croft
-
-William
-J. Elliott
-
-Robert
-S. Fritzshall
-
-Frank
-G. McCabe
-
-Betty
-A. Petroski
-
-George
-Van Dusen
-
-Counsel           Barbara
-M Meyer
-
-Manager          Albert
-J. Rigoni
-
-Counsel Manager
-
-
+| Mayor | Jacqueline Gorell |
+| Clerk |  Marlene Williams |
+| Trustees | Manly R. Croft |
+| | William J. Elliott |
+| | Robert S. Fritzshall |
+| | Frank G. McCabe |
+| | Betty A. Petroski |
+| | George Van Dusen |
+| Counsel | Barbara M Meyer |
+| Manager | Albert J. Rigoni |
 
 ## Centennial Committee
 
-Honorary 
-Chairman    Albert J. Smith
-
-Chairman                      
-Frank McCabe
-
-Vice  Chairman            
-Albert J. Rigoni
-
-Members
-
-Neil
-Bergman
-
-Daniel
-Brown
-
-John
-Haben
-
-Archel
-Hanson
-
-Sue
-Schwartz
-
-Roberta
-Sweetow
-
-
+| Honorary Chairman | Albert J. Smith |
+| Chairman | Frank McCabe |
+| Vice Chairman | Albert J. Rigoni |
+| Members | Neil Bergman |
+| |Daniel Brown |
+| |John Haben |
+| |Archel Hanson |
+| |Sue Schwartz |
+| |Roberta Sweetow |
 
 Special thanks are deeply extended by the
 author and publisher to the Centennial Book Committee, whose members devoted
