@@ -3,8 +3,7 @@ title: contributors
 ---
 
 ## Centennial Contributors
-The following individuals, businesses, and
-organizations have generously contributed to the Skokie centennial celebration.
+The following individuals, businesses, and organizations have generously contributed to the Skokie centennial celebration.
 
 ## Individuals
 
