@@ -1,6 +1,8 @@
 ---
 title: "9"
 subtitle: "Education and Schools"
+prev: "8"
+next: "10"
 ---
 
 FORMAL EDUCATION in Skokie dates back to the days before the Civil War, and some 30 years before the village was incorporated. The original Fairview School, the village’s first, was constructed in 1858, the same year that Henry Harms opened the first store in the settlement that would one day become known as Skokie.

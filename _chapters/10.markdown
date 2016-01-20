@@ -1,6 +1,8 @@
 ---
 title: "10"
 subtitle: "Skokie Spirit"
+prev: "9"
+next: "11"
 ---
 
 SKOKIE VILLAGERS have in recent decades had reason to take considerable pride in the efforts that they and their neighbors have made to make the community a better place to live. And the citizenry of Skokie, as that of almost no other village or city in the United States, has been faced with situations that have brought on national notoriety and dreadful memories of crimes against humanity. As a result, Skokie has had to meld together as a community both to promote the good and confront the bad.

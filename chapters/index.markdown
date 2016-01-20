@@ -2,7 +2,8 @@
 title: Contents
 layout: base
 ---
-# Contents
+
+<h1><small>Contents</small></h1>
 
 - [Acknowledgements]({{ site.baseurl }}/chapters/acknowledgements)
 - [Foreword]({{ site.baseurl }}/chapters/foreword)

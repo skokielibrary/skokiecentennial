@@ -1,9 +1,8 @@
 ---
 title: "1"
 subtitle: "Origins"
+next: "2"
 ---
-
-## Introduction
 
 IN THE YEAR 1831, Andrew Jackson was still in his first term as the seventh President of the United States, presiding over its then 24 states and approximately 13 million citizens. It was during that year a fur trader from England named Joseph Curtis trekked into one of those states, Illinois, to make a small historical mark of his own.
 

@@ -1,6 +1,8 @@
 ---
 title: "3"
 subtitle: "Niles Centre"
+prev: "2"
+next: "4"
 ---
 
 THE SMALL SETTLEMENT of Niles Centre was made up of just 57 households in 1880, although the township had a population just in excess of 2,500. It was, however, fast becoming an important area marketplace around that time, the keystone of which was the area’s first farmer’s market.

@@ -1,6 +1,8 @@
 ---
 title: "2"
 subtitle: "Settling In"
+prev: "1"
+next: "3"
 ---
 
 IN 1839, an Irish bachelor named O'Brien finally decided to settle on land that had been passed over by a number of other pioneers. He built a log cabin near what is now 4920 Qakton Street. Unfortunately, most of the details of Skokie's first settler are lost. O'Brien did not remain in the area for long, and little else is known about him, not even his first name. But the cabin he built was still standing at the turn of the 20th century on property owned by Peter Blameuser, III, and his wife Clara.
@@ -39,7 +41,7 @@ The 1851 Niles Township tax assessment records (the township had been incorporat
 ![Skokie's famous log cabin, believed to have been first built in the 1840s, now
 stands behind the Historical Society]({{ site.baseurl }}/assets/img/21a.jpg)
 *Skokie's famous log cabin, believed to  have been first built in the 1840s, now
-stands behind the Historical Society* 
+stands behind the Historical Society*
 
 ![Margaret Harrer Meyer and her husband Jacob, youngest son of Elizabeth and Nicholas Meyer. They built and lived inthe famous log cabin in the mid-1800s.]({{ site.baseurl }}/assets/img/22.jpg)
 *Margaret Harrer Meyer and her husband Jacob, youngest son of Elizabeth and Nicholas Meyer. They built and lived inthe famous log cabin in the mid-1800s.*

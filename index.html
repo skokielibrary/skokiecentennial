@@ -1,5 +1,74 @@
 ---
-layout: base
 ---
+<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300|Karma:400,600' rel='stylesheet' type='text/css'>
+<style>
+  html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
 
-<a href="{{ site.baseurl }}/chapters/">Chapters</a>
+  body{
+    background: url(/assets/img/homepage.jpg) no-repeat center center;
+    background-size: cover;
+  }
+
+  h1, h2, h3{
+    font-family: 'Josefin Sans';
+    text-transform: uppercase;
+  }
+
+  h1{
+    display: inline-block;
+    margin-bottom: 0;
+    padding: 0 4rem;
+    font-size: 5rem;
+    letter-spacing: 1rem;
+    border-bottom: 3px solid #333;
+  }
+
+  h2{
+    font-size: 3rem;
+    letter-spacing: 1rem;
+  }
+
+  h3{
+    display: inline-block;
+    font-size: 2rem;
+    letter-spacing: .5rem;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    line-height: 1.6em;
+  }
+
+  hr{
+    border: 0;
+    margin: 4rem;
+  }
+
+  .button.solid{
+    display: inline-block;
+    padding: 1rem 1.5rem;
+    font-family: 'Josefin Sans';
+    background: #333;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+
+  .splash{
+    width: 40%;
+    margin: 5rem auto;
+    text-align: center;
+  }
+</style>
+<section class="splash">
+  <h1>Skokie</h1>
+  <br>
+  <h2>1888&ndash;1988</small></h2>
+  <br>
+  <h3>A Centennial History</h3>
+  <hr>
+  <a href="{{ site.baseurl }}/chapters/" class="button solid">Read Now</a>
+</section>

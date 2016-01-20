@@ -1,6 +1,8 @@
 ---
 title: "7"
 subtitle: "Business and Commerce"
+prev: "6"
+next: "8"
 ---
 
 In the mid-1800s, Niles Centre was essentially an agricultural settlement, independent of the city of Chicago for the simple reason that roads and transportation were not yet a real part of the area’s way of life. This promoted the development of local businesses that catered directly to the needs and desires of the area residents.

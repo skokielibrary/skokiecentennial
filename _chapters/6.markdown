@@ -1,6 +1,8 @@
 ---
 title: "6"
 subtitle: "A Village Emerges"
+prev: "5"
+next: "7"
 ---
 
 Most residents of Skokie are pleased with the quality of local services they receive in return for their tax dollars. Some longtime residents, however, will surely recall that this situation did not come about easily.

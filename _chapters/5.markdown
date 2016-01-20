@@ -1,6 +1,8 @@
 ---
 title: "5"
 subtitle: "Niles Center Becomes Skokie"
+prev: "4"
+next: "6"
 ---
 
 By the late 1930s, some residents of Niles Center were beginning to campaign for a change in the village’s name. One reason expressed was that there was often confusion caused by the names of the two neighboring villages, Niles and Niles Center, both of which are within Niles Township.

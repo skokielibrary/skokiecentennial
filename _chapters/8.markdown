@@ -1,6 +1,8 @@
 ---
 title: "8"
 subtitle: "Religions"
+prev: "7"
+next: "9"
 ---
 
 SINCE THE EARLIEST FRENCH MISSIONARIES and explorers found a waterway through northern Illinois by way of the Great Lakes and the Chicago Portage, the history of the area has been closely allied with religion. The intensely Germanic roots of the modern village of Skokie can easily be seen through the stories of its oldest Protestant and Catholic churches, which began with German language services that continued until the early years of the 20th century.
@@ -118,7 +120,7 @@ St. Joan of Arc, under the guidance of its first pastor, Reverend Francis P. Gal
 
 Also in 1951, Reverend Francis J. Trainer oversaw the establishment of St. Lambert’s parish. The first mass was celebrated in the Cleveland school gymnasium in September of that year, and services were held there until the modernistic new church of St. Lambert’s was completed in 1960.
 
-## Roman Catholic Churches 
+## Roman Catholic Churches
 
 - St. Joan of Arc, 9248 Lawndale Avenue
 - St. Lambert’s, 8148 Karlov
