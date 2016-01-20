@@ -39,6 +39,6 @@ Still in an early stage of development is an in-depth evaluation of Skokie’s d
  
 These are just a few of the plans and programs that Skokie will launch as the village moves into its second century. All such efforts are sure to be guided by the same spirit and sense of cooperation that, over the past 100 years, has moved Skokie from a rural settlement to a vital community headed toward the 21st century.
 
-![Village of Skokie sign]({{ site.baseurl }}/assets/img/162.jpg)
+![Village of Skokie sign]({{ site.baseurl }}/assets/img/172.jpg)
 
-![Skokie Centennial logo]({{ site.baseurl }}/assets/img/163.jpg)
+![Skokie Centennial logo]({{ site.baseurl }}/assets/img/173.jpg)
