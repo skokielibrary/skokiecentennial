@@ -136,7 +136,7 @@ Today’s Crawford Avenue Baptist Church was born in the 1950s, when a small con
 
 North Shore Assembly of God, 9779 Gross Point Road, is the village’s youngest Christian Church. It was founded in June 1964.
 
-![St Joan of Arc Church at 9248 Lawndale Avenue]({{ site.baseurl }}/assets/img/1980017005.jpg)
+![St Joan of Arc Church at 9248 Lawndale Avenue]({{ site.baseurl }}/assets/img/1990016008.jpg)
 *St Joan of Arc Church at 9248 Lawndale Avenue*
 
 ## Jewish Synagogues
