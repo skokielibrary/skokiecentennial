@@ -1,5 +1,8 @@
 ---
-title: foreword
+title: "Foreword"
+type: "frontmatter"
+prev: "acknowledgements"
+next: "contributors"
 ---
 
 THIS IS THE STORY of a place called Skokie. It is a place that was settled years ago by
@@ -41,7 +44,7 @@ Mayor 1965 -
 > ### Editor’s Note:
 >
 >The village of Skokie was known first as Niles
->Centre but, at a time somewhere around 1910, the spelling was changed to the more Americanized Niles Center. 
+>Centre but, at a time somewhere around 1910, the spelling was changed to the more Americanized Niles Center.
 >For the sake of consistency, we have endeavored to use the spelling Niles Centre
 >whenever the village is referred to in context prior to 1910, and Niles
 >Center from 1910 until the name was formally changed to Skokie.

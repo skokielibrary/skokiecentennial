@@ -1,5 +1,7 @@
 ---
-title: Acknowledgements
+title: "Acknowledgements"
+type: "frontmatter"
+next: "foreword"
 ---
 
 ## Acknowledgements

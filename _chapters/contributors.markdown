@@ -1,5 +1,8 @@
 ---
-title: contributors
+title: "Contributors"
+type: "frontmatter"
+prev: "foreword"
+next: "1"
 ---
 
 ## Centennial Contributors

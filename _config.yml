@@ -10,5 +10,5 @@ defaults:
       path: ""
       type: "chapters"
     values:
-      layout: "base"
+      layout: "page"
       type: "chapter"

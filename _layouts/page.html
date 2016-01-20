@@ -1,0 +1,24 @@
+---
+layout: base
+---
+{% include header.html %}
+<main role="main">
+  <article class="{{ page.type }}">
+    {% if page.type == "chapter" %}
+      <h1>{{ page.title }}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}</h1>
+    {% elsif page.type == "frontmatter" %}
+      <h1><small>{{ page.title }}</small></h1>
+    {% endif %}
+    {{ content }}
+  </article>
+  {% if page.title != "Contents" %}
+    <nav role="menu" aria-label="Pagination" class="pagination">
+      {% if page.prev %}
+        <a href="{{ site.baseurl }}/chapters/{{ page.prev }}" class="previous">Prev</a>
+      {% endif %}
+      {% if page.next %}
+        <a href="{{ site.baseurl }}/chapters/{{ page.next }}" class="next">Next</a>
+      {% endif %}
+    </nav>
+  {% endif %}
+</main>

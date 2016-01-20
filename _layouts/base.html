@@ -24,8 +24,13 @@
     h1 > small{
       display: block;
       margin-bottom: 2rem;
-      font: 2rem/1.2 'Josefin Sans', serif;
+      font: 3rem/1.2 'Josefin Sans', serif;
       letter-spacing: 1px;
+    }
+
+    .chapter h1 > small{
+      padding-top: 1rem;
+      border-top: 2px solid #333;
     }
 
     a, button{
@@ -37,6 +42,12 @@
       opacity: .6;
     }
 
+    ul{
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
     header{
       margin: 1rem;
       padding-bottom: .5rem;
@@ -44,6 +55,8 @@
     }
 
     .brand{
+      display: inline-block;
+      max-width: 60%;
       font-family: 'Josefin Sans';
       text-decoration: none;
       text-transform: uppercase;
@@ -51,6 +64,17 @@
 
     header nav{
       float: right;
+    }
+
+    @media screen and (max-width: 400px){
+      .brand{
+        max-width: 100%;
+      }
+
+      header nav{
+        float: none;
+        margin-top: 2rem;
+      }
     }
 
     header nav a{
@@ -77,7 +101,7 @@
     }
 
     article h2{
-      margin-top: 5rem;
+      margin-top: 3.5rem;
       font-weight: 600;
       font-size: 1.375rem;
     }
@@ -118,6 +142,10 @@
       border-bottom: 2px solid #333;
     }
 
+    blockquote:last-of-type{
+      border-bottom: 0;
+    }
+
     blockquote p{
       font-style: italic;
     }
@@ -147,25 +175,26 @@
       right: 0;
     }
 
+    .toc{
+      list-style: none;
+    }
+
+    .toc a{
+      display: block;
+      margin-bottom: 2rem;
+      border-bottom: 2px solid #333;
+      font-size: 1.375rem;
+      text-decoration: none;
+    }
+
+    .chapternum{
+      display: inline-block;
+      width: 10%;
+    }
+
   </style>
 </head>
 <body>
-  {% include header.html %}
-  <main role="main">
-    <article>
-      {% if page.type == "chapter" %}
-        <h1>{{ page.title }}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}</h1>
-      {% endif %}
-      {{ content }}
-    </article>
-    <nav role="menu" aria-label="Pagination" class="pagination">
-      {% if page.prev %}
-        <a href="{{ site.baseurl }}/chapters/{{ page.prev }}" class="previous">Prev</a>
-      {% endif %}
-      {% if page.next %}
-        <a href="{{ site.baseurl }}/chapters/{{ page.next }}" class="next">Next</a>
-      {% endif %}
-    </nav>
-  </main>
+  {{content}}
 </body>
 </html>
