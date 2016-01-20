@@ -1,6 +1,7 @@
 ---
 title: "1"
 subtitle: "Origins"
+prev: "contributors"
 next: "2"
 ---
 

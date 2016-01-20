@@ -14,10 +14,10 @@ layout: base
   {% if page.title != "Contents" %}
     <nav role="menu" aria-label="Pagination" class="pagination">
       {% if page.prev %}
-        <a href="{{ site.baseurl }}/chapters/{{ page.prev }}" class="previous">Prev</a>
+        <a href="{{ site.baseurl }}/chapters/{{ page.prev }}/" class="previous">Prev</a>
       {% endif %}
       {% if page.next %}
-        <a href="{{ site.baseurl }}/chapters/{{ page.next }}" class="next">Next</a>
+        <a href="{{ site.baseurl }}/chapters/{{ page.next }}/" class="next">Next</a>
       {% endif %}
     </nav>
   {% endif %}
