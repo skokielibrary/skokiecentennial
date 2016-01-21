@@ -256,7 +256,13 @@ article table td{
 }
 
 article table tr > td:first-child{
-  width: 30%;
+  width: 50%;
+}
+
+@media screen and (min-width: 37.5rem){
+  article table tr > td:first-child{
+    width: 35%;
+  }
 }
 
 article img + em{
