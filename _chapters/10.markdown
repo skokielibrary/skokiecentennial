@@ -1,6 +1,8 @@
 ---
 title: "10"
 subtitle: "Skokie Spirit"
+type: "chapter"
+paginate: True
 prev: "9"
 next: "11"
 ---

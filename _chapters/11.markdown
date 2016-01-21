@@ -1,6 +1,8 @@
 ---
 title: "11"
 subtitle: "Skokie’s Future"
+type: "chapter"
+paginate: True
 prev: "10"
 ---
 

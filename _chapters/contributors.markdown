@@ -1,6 +1,7 @@
 ---
 title: "Contributors"
 type: "frontmatter"
+paginate: True
 prev: "foreword"
 next: "1"
 ---

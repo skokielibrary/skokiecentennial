@@ -1,5 +1,6 @@
 title: "Skokie: A Centennial History"
 baseurl: ""
+hostname: "http://skokiecentennialbook.com"
 collections:
   chapters:
     output: true
@@ -11,4 +12,3 @@ defaults:
       type: "chapters"
     values:
       layout: "page"
-      type: "chapter"

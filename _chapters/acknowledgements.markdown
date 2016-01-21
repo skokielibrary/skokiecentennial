@@ -1,6 +1,7 @@
 ---
 title: "Acknowledgements"
 type: "frontmatter"
+paginate: True
 next: "foreword"
 ---
 

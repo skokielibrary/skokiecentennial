@@ -3,15 +3,15 @@ layout: base
 ---
 {% include header.html %}
 <main role="main">
-  <article class="{{ page.type }}">
+  <article>
     {% if page.type == "chapter" %}
       <h1>{{ page.title }}{% if page.subtitle %} <small>{{ page.subtitle }}</small>{% endif %}</h1>
-    {% elsif page.type == "frontmatter" %}
+    {% else %}
       <h1><small>{{ page.title }}</small></h1>
     {% endif %}
     {{ content }}
   </article>
-  {% if page.title != "Contents" %}
+  {% if page.paginate %}
     <nav role="menu" aria-label="Pagination" class="pagination">
       {% if page.prev %}
         <a href="{{ site.baseurl }}/chapters/{{ page.prev }}/" class="previous">Prev</a>

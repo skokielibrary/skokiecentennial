@@ -1,6 +1,8 @@
 ---
 title: "5"
 subtitle: "Niles Center Becomes Skokie"
+type: "chapter"
+paginate: True
 prev: "4"
 next: "6"
 ---

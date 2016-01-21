@@ -1,0 +1,17 @@
+---
+---
+
+{"pages":
+  [
+    {% for chapter in site.chapters %}
+     {
+       {% if chapter.title != nil %}
+          "title": "{{ chapter.title | escape }}{% if chapter.subtitle %}: {{ chapter.subtitle | escape }}{% endif %}",
+          "text": "{{ chapter.content | strip_html | strip_newlines | remove_chars | escape }}",
+          "tags": "",
+          "url": "{{ site.hostname }}{{ site.baseurl }}{{ chapter.url }}"
+       {% endif %}
+     } {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

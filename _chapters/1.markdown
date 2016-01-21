@@ -1,6 +1,8 @@
 ---
 title: "1"
 subtitle: "Origins"
+type: "chapter"
+paginate: True
 prev: "contributors"
 next: "2"
 ---

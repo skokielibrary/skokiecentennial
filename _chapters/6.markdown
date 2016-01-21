@@ -1,6 +1,8 @@
 ---
 title: "6"
 subtitle: "A Village Emerges"
+type: "chapter"
+paginate: True
 prev: "5"
 next: "7"
 ---

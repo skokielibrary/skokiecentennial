@@ -29,10 +29,15 @@ h1,h2,h3,h4,h5,h6{
 a, button{
   color: #333;
   transition: opacity .2s ease;
+  cursor: pointer;
 }
 
 a:hover, button:hover{
   opacity: .6;
+}
+
+button{
+  border: 0;
 }
 
 ul{
@@ -41,22 +46,52 @@ ul{
   padding: 0;
 }
 
-/*resuable components*/
+input, select{
+  padding: .725rem 1rem;
+  border: 1px solid #888;
+  font-size: 100%;
+  font-family: 'Times New Roman', serif;
+  line-height: 1;
+  vertical-align: top;
+}
 
-.button.solid{
+input[placeholder]{
+  font-style: italic;
+}
+
+/*resuable components and classes*/
+
+.hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+.button{
   display: inline-block;
   padding: 1rem 1.5rem;
-  font-family: 'Josefin Sans';
-  background: #333;
-  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: .9rem;
   text-transform: uppercase;
   text-decoration: none;
+}
+
+.button.solid{
+  background: #333;
+  color: #fff;
 }
 
 .note{
   margin-top: 4rem;
   font-style: italic;
 }
+
+
 
 /*homepage styles*/
 
@@ -137,40 +172,44 @@ header{
 
 .brand{
   display: inline-block;
-  max-width: 60%;
+  max-width: 100%;
   font-family: 'Josefin Sans';
   text-decoration: none;
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 400px){
+@media screen and (min-width: 37.5rem){
   .brand{
-    max-width: 100%;
+    max-width: 60%;
   }
 }
 
 header nav{
-  float: right;
+  float: none;
+  margin-top: 1.5rem;
 }
 
-@media screen and (max-width: 400px){
+@media screen and (min-width: 37.5rem){
   header nav{
-    float: none;
-    margin-top: 1.5rem;
+    float: right;
+    margin-top: 0;
   }
 }
 
 header nav a{
+  display: inline-block;
+  margin-right: 2rem;
   font-family: 'Josefin Sans';
   font-size: .9375rem;
   text-decoration: none;
   text-transform: uppercase;
 }
 
-header nav a:before{
-  display: inline-block;
-  content: '\2630';
-  margin-right: .5rem;
+@media screen and (min-width: 37.5rem){
+  header nav a{
+    margin-left: 2rem;
+    margin-right: 0;
+  }
 }
 
 /*main content*/

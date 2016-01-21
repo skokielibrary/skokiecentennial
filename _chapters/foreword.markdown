@@ -1,6 +1,7 @@
 ---
 title: "Foreword"
 type: "frontmatter"
+paginate: True
 prev: "acknowledgements"
 next: "contributors"
 ---

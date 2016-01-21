@@ -1,6 +1,8 @@
 ---
 title: "4"
 subtitle: "Niles Center"
+type: "chapter"
+paginate: True
 prev: "3"
 next: "5"
 ---

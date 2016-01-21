@@ -1,6 +1,8 @@
 ---
 title: "9"
 subtitle: "Education and Schools"
+type: "chapter"
+paginate: True
 prev: "8"
 next: "10"
 ---

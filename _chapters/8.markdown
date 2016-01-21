@@ -1,6 +1,8 @@
 ---
 title: "8"
 subtitle: "Religions"
+type: "chapter"
+paginate: True
 prev: "7"
 next: "9"
 ---

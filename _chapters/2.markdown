@@ -1,6 +1,8 @@
 ---
 title: "2"
 subtitle: "Settling In"
+type: "chapter"
+paginate: True
 prev: "1"
 next: "3"
 ---
