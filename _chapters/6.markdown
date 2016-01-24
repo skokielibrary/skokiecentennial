@@ -121,34 +121,34 @@ By Illinois state law, the Mayor also serves as the village liquor commissioner,
 ![John W. Brown 1890-1895]({{ site.baseurl }}/assets/img/112b.jpg)
 *John W. Brown 1890-1895*
 
-![Peter Blaumeuser III 1895-1897]({{ site.baseurl }}/assets/img/112c.jpg)
+![Peter Blaumeuser III 1895-1897]({{ site.baseurl }}/assets/img/113a.jpg)
 *Peter Blaumeuser III 1895-1897*
 
-![Dr. George Sintzel 1897-1910]({{ site.baseurl }}/assets/img/112d.jpg)
+![Dr. George Sintzel 1897-1910]({{ site.baseurl }}/assets/img/113bthmb.jpg)
 *Dr. George Sintzel 1897-1910*
 
-![George H. Klehm 1910-1923]({{ site.baseurl }}/assets/img/112e.jpg)
+![George H. Klehm 1910-1923]({{ site.baseurl }}/assets/img/113c.jpg)
 *George H. Klehm 1910-1923*
 
-![John E. Brown 1923-1933]({{ site.baseurl }}/assets/img/112f.jpg)
+![John E. Brown 1923-1933]({{ site.baseurl }}/assets/img/112c.jpg)
 *John E. Brown 1923-1933*
 
-![George Blaumeuser 1933-1945]({{ site.baseurl }}/assets/img/113a.jpg)
+![George Blaumeuser 1933-1945]({{ site.baseurl }}/assets/img/112d.jpg)
 *George Blaumeuser 1933-1945*
 
-![John W. Wuerth 1945-1947]({{ site.baseurl }}/assets/img/113b.jpg)
+![John W. Wuerth 1945-1947]({{ site.baseurl }}/assets/img/113d.jpg)
 *John W. Wuerth 1945-1947*
 
-![Arthur Simmons 1947-1949]({{ site.baseurl }}/assets/img/113c.jpg)
+![Arthur Simmons 1947-1949]({{ site.baseurl }}/assets/img/113e.jpg)
 *Arthur Simmons 1947-1949*
 
-![George Wilson 1949-1957]({{ site.baseurl }}/assets/img/113d.jpg)
+![George Wilson 1949-1957]({{ site.baseurl }}/assets/img/113f.jpg)
 *George Wilson 1949-1957*
 
-![Allan Weissburg 1957]({{ site.baseurl }}/assets/img/113e.jpg)
+![Allan Weissburg 1957]({{ site.baseurl }}/assets/img/112e.jpg)
 *Allan Weissburg 1957*
 
-![Ambrose Reiter 1957-1961]({{ site.baseurl }}/assets/img/113f.jpg)
+![Ambrose Reiter 1957-1961]({{ site.baseurl }}/assets/img/112f.jpg)
 *Ambrose Reiter 1957-1961*
 
 ![Myron Greisdorf 1961-1965]({{ site.baseurl }}/assets/img/113g.jpg)

@@ -138,7 +138,7 @@ Both of the original church buildings have been replaced by more recent structur
 
 ![The Blameuser Building, on the northwest corner of Lincoln and Oakton, was built in the late 1800s.]({{ site.baseurl }}/assets/img/28.jpg)*The Blameuser Building, on the northwest corner of Lincoln and Oakton, was built in the late 1800s.*
 
-![A scribe used to mark cutting lines on wood, found in the Skokie area.]({{ site.baseurl }}/assets/img/31b.jpg)*A scribe used to mark cutting lines on wood, found in the Skokie area.*
+![A scribe used to mark cutting lines on wood, found in the Skokie area.]({{ site.baseurl }}/assets/img/31a.jpg)*A scribe used to mark cutting lines on wood, found in the Skokie area.*
 
 ![Peter Blameuser family, 1885]({{ site.baseurl }}/assets/img/31b.jpg)*Peter Blameuser family, 1885*
 

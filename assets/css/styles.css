@@ -339,3 +339,76 @@ article blockquote p{
   display: inline-block;
   width: 10%;
 }
+
+/*search*/
+
+.inline{
+  display: flex;
+}
+
+.inline input{
+  flex-grow: 1;
+}
+
+.search-results{
+  margin-top: 2rem;
+}
+
+#tipue_search_results_count{
+  margin-bottom: 1rem;
+  font-size: .9rem;
+  font-style: italic;
+}
+
+.tipue_search_content_title{
+  font-size: 1.5rem;
+}
+
+.tipue_search_content_title a{
+  text-decoration: none;
+}
+
+.tipue_search_content_url{
+  margin: 0 0 .5rem;
+}
+
+.tipue_search_content_url a{
+  font-size: .9rem;
+}
+
+.tipue_search_content_text{
+  margin-bottom: 2rem;
+}
+
+.tipue_search_content_text{
+  font-size: .945rem;
+}
+
+.h01{
+  font-weight: bold;
+}
+
+#tipue_search_foot_boxes li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+#tipue_search_foot_boxes li.current, #tipue_search_foot_boxes li a {
+  margin-right: 1rem;
+  padding: .5rem 1rem;
+  border: 2px solid #333;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: .875rem;
+  letter-spacing: 1px;
+}
+
+#tipue_search_foot_boxes li a{
+  display: block;
+}
+
+#tipue_search_foot_boxes li.current{
+  border-color: #ccc;
+}
