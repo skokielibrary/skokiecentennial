@@ -10,5 +10,7 @@
 </head>
 <body{% if page.type %} class="{{ page.type }}"{% endif %}>
   {{content}}
+
+  {% include scripts.html %}
 </body>
 </html>
